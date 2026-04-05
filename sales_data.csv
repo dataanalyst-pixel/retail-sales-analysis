@@ -1,0 +1,1201 @@
+OrderID,OrderDate,Region,Category,CustomerSegment,ShipMode,Quantity,UnitPrice,Discount,ShippingCost,Sales,Profit,Month,Year,Quarter
+ORD-00001,2023-10-04,South,Sports,Corporate,Same Day,19,466.02,0.0,47.38,8854.38,420.8,October,2023,Q4
+ORD-00002,2022-02-05,West,Clothing,Consumer,Standard Class,12,321.26,0.2,12.16,3084.1,351.09,February,2022,Q1
+ORD-00003,2022-07-05,South,Sports,Consumer,First Class,5,373.11,0.0,27.27,1865.55,260.05,July,2022,Q3
+ORD-00004,2022-06-18,West,Electronics,Consumer,Standard Class,10,410.25,0.0,20.08,4102.5,1390.9,June,2022,Q2
+ORD-00005,2023-12-15,South,Electronics,Home Office,Second Class,18,13.01,0.2,42.97,187.34,-26.55,December,2023,Q4
+ORD-00006,2023-12-24,South,Sports,Home Office,First Class,15,465.71,0.2,8.49,5588.52,629.33,December,2023,Q4
+ORD-00007,2022-03-10,West,Sports,Home Office,Standard Class,1,300.57,0.2,37.44,240.46,-18.81,March,2022,Q1
+ORD-00008,2022-07-17,West,Furniture,Consumer,Second Class,5,295.25,0.4,30.48,885.75,87.74,July,2022,Q3
+ORD-00009,2023-01-21,North,Furniture,Home Office,Second Class,18,303.52,0.4,14.81,3278.02,379.12,January,2023,Q1
+ORD-00010,2022-09-12,North,Food & Beverages,Consumer,Standard Class,15,70.95,0.1,10.06,957.82,169.38,September,2022,Q3
+ORD-00011,2022-02-25,East,Electronics,Consumer,Same Day,7,247.62,0.0,20.2,1733.34,311.45,February,2022,Q1
+ORD-00012,2023-03-26,West,Sports,Consumer,First Class,9,183.5,0.2,10.73,1321.2,303.51,March,2023,Q1
+ORD-00013,2022-06-26,East,Electronics,Consumer,Standard Class,12,138.63,0.1,4.87,1497.2,113.6,June,2022,Q2
+ORD-00014,2022-08-10,North,Clothing,Corporate,Standard Class,3,242.15,0.0,45.83,726.45,167.37,August,2022,Q3
+ORD-00015,2022-03-01,East,Food & Beverages,Corporate,First Class,1,419.41,0.0,39.77,419.41,103.93,March,2022,Q1
+ORD-00016,2022-12-30,South,Sports,Consumer,First Class,15,472.29,0.1,19.1,6375.92,1260.41,December,2022,Q4
+ORD-00017,2022-09-02,North,Food & Beverages,Consumer,Standard Class,6,275.68,0.2,13.54,1323.26,272.12,September,2022,Q3
+ORD-00018,2022-08-04,West,Electronics,Corporate,Standard Class,15,171.6,0.1,8.69,2316.6,768.18,August,2022,Q3
+ORD-00019,2023-10-05,East,Electronics,Consumer,Second Class,1,122.51,0.0,19.64,122.51,5.79,October,2023,Q4
+ORD-00020,2022-07-12,South,Furniture,Home Office,Second Class,15,204.51,0.0,25.29,3067.65,194.93,July,2022,Q3
+ORD-00021,2023-10-15,South,Furniture,Home Office,First Class,9,414.09,0.2,47.24,2981.45,752.95,October,2023,Q4
+ORD-00022,2023-03-01,East,Furniture,Consumer,First Class,10,247.08,0.0,19.93,2470.8,575.81,March,2023,Q1
+ORD-00023,2022-01-21,West,Furniture,Consumer,First Class,19,74.9,0.0,6.76,1423.1,259.38,January,2022,Q1
+ORD-00024,2023-05-21,North,Food & Beverages,Consumer,Standard Class,10,175.83,0.1,32.07,1582.47,148.81,May,2023,Q2
+ORD-00025,2022-03-01,South,Furniture,Consumer,Standard Class,1,469.5,0.2,9.0,375.6,20.4,March,2022,Q1
+ORD-00026,2023-08-15,North,Electronics,Corporate,Standard Class,7,251.07,0.0,7.44,1757.49,330.42,August,2023,Q3
+ORD-00027,2022-02-17,North,Clothing,Corporate,Standard Class,6,21.53,0.0,25.42,129.18,-13.41,February,2022,Q1
+ORD-00028,2023-05-08,North,Furniture,Corporate,Same Day,8,448.86,0.2,31.18,2872.7,720.78,May,2023,Q2
+ORD-00029,2022-03-04,North,Furniture,Consumer,Standard Class,18,335.96,0.2,38.22,4837.82,1250.6,March,2022,Q1
+ORD-00030,2023-06-14,South,Furniture,Consumer,Standard Class,8,345.93,0.0,36.24,2767.44,882.87,June,2023,Q2
+ORD-00031,2022-03-15,South,Food & Beverages,Consumer,Standard Class,16,159.69,0.2,4.88,2044.03,140.2,March,2022,Q1
+ORD-00032,2022-06-10,North,Clothing,Corporate,Standard Class,12,163.04,0.0,9.05,1956.48,409.87,June,2022,Q2
+ORD-00033,2022-10-05,South,Clothing,Corporate,First Class,15,478.16,0.0,12.64,7172.4,448.58,October,2022,Q4
+ORD-00034,2022-08-28,South,Clothing,Corporate,Standard Class,6,45.46,0.2,9.56,218.21,45.85,August,2022,Q3
+ORD-00035,2022-06-19,North,Food & Beverages,Corporate,Standard Class,9,142.63,0.3,45.38,898.57,-0.31,June,2022,Q2
+ORD-00036,2023-06-16,East,Clothing,Consumer,Second Class,1,250.31,0.3,28.9,175.22,2.59,June,2023,Q2
+ORD-00037,2023-11-22,West,Food & Beverages,Consumer,Standard Class,15,161.22,0.0,14.41,2418.3,583.48,November,2023,Q4
+ORD-00038,2023-10-15,South,Furniture,Home Office,Second Class,19,303.73,0.1,19.36,5193.78,1563.19,October,2023,Q4
+ORD-00039,2022-12-19,West,Sports,Corporate,Standard Class,10,23.07,0.3,24.68,161.49,10.98,December,2022,Q4
+ORD-00040,2022-09-15,South,Electronics,Consumer,First Class,1,16.11,0.2,33.77,12.89,-32.06,September,2022,Q3
+ORD-00041,2023-03-05,East,Clothing,Consumer,Standard Class,10,481.62,0.2,16.96,3852.96,701.45,March,2023,Q1
+ORD-00042,2022-04-25,West,Clothing,Consumer,Same Day,2,256.92,0.0,4.52,513.84,130.61,April,2022,Q2
+ORD-00043,2022-01-12,East,Clothing,Home Office,Standard Class,12,231.7,0.0,37.32,2780.4,109.07,January,2022,Q1
+ORD-00044,2022-04-06,West,Food & Beverages,Corporate,Second Class,1,289.35,0.1,42.63,260.42,14.18,April,2022,Q2
+ORD-00045,2022-10-25,East,Sports,Consumer,Standard Class,9,331.36,0.0,43.68,2982.24,993.09,October,2022,Q4
+ORD-00046,2022-05-04,East,Food & Beverages,Consumer,Standard Class,2,221.89,0.2,25.99,355.02,94.67,May,2022,Q2
+ORD-00047,2022-09-26,South,Food & Beverages,Consumer,First Class,15,466.32,0.0,35.02,6994.8,984.4,September,2022,Q3
+ORD-00048,2022-03-19,West,Furniture,Consumer,Second Class,3,431.48,0.4,48.3,776.66,160.85,March,2022,Q1
+ORD-00049,2023-04-06,South,Electronics,Consumer,Standard Class,16,281.8,0.0,38.87,4508.8,565.65,April,2023,Q2
+ORD-00050,2023-04-29,East,Furniture,Consumer,Same Day,15,11.68,0.2,5.51,140.16,6.33,April,2023,Q2
+ORD-00051,2022-03-30,South,Electronics,Corporate,First Class,17,74.67,0.1,40.91,1142.45,151.89,March,2022,Q1
+ORD-00052,2023-05-04,North,Electronics,Consumer,Standard Class,18,361.58,0.2,39.79,5206.75,1261.9,May,2023,Q2
+ORD-00053,2023-04-03,West,Furniture,Consumer,First Class,5,296.73,0.2,29.75,1186.92,250.08,April,2023,Q2
+ORD-00054,2023-09-19,South,Clothing,Consumer,Standard Class,1,312.03,0.1,5.37,280.83,73.43,September,2023,Q3
+ORD-00055,2023-05-21,South,Sports,Corporate,First Class,18,173.87,0.0,36.55,3129.66,283.83,May,2023,Q2
+ORD-00056,2022-01-01,West,Electronics,Consumer,First Class,15,124.65,0.2,44.36,1495.8,399.15,January,2022,Q1
+ORD-00057,2023-10-26,East,Electronics,Corporate,Standard Class,3,455.19,0.0,40.02,1365.57,137.73,October,2023,Q4
+ORD-00058,2023-03-22,North,Clothing,Consumer,Standard Class,10,98.58,0.0,43.56,985.8,88.34,March,2023,Q1
+ORD-00059,2023-06-08,West,Clothing,Consumer,Standard Class,8,10.13,0.0,20.61,81.04,-5.86,June,2023,Q2
+ORD-00060,2022-04-25,North,Sports,Home Office,Standard Class,6,486.07,0.2,9.47,2333.14,697.25,April,2022,Q2
+ORD-00061,2023-05-12,East,Food & Beverages,Home Office,Standard Class,6,285.14,0.0,12.41,1710.84,281.51,May,2023,Q2
+ORD-00062,2023-02-27,North,Furniture,Corporate,Standard Class,4,111.17,0.0,21.29,444.68,57.73,February,2023,Q1
+ORD-00063,2023-01-17,East,Clothing,Corporate,Second Class,3,259.38,0.0,23.26,778.14,241.47,January,2023,Q1
+ORD-00064,2023-03-27,West,Furniture,Home Office,Standard Class,1,198.32,0.1,32.03,178.49,1.66,March,2023,Q1
+ORD-00065,2022-11-12,North,Clothing,Corporate,First Class,8,289.75,0.2,11.0,1854.4,398.64,November,2022,Q4
+ORD-00066,2023-05-06,South,Electronics,Consumer,Standard Class,5,74.82,0.0,19.05,374.1,107.8,May,2023,Q2
+ORD-00067,2022-03-25,East,Food & Beverages,Home Office,Standard Class,16,263.41,0.0,24.03,4214.56,229.41,March,2022,Q1
+ORD-00068,2023-10-21,North,Furniture,Consumer,Standard Class,11,417.17,0.2,13.32,3671.1,1045.47,October,2023,Q4
+ORD-00069,2022-03-02,West,Furniture,Consumer,Second Class,1,481.28,0.1,13.93,433.15,105.4,March,2022,Q1
+ORD-00070,2022-04-15,North,Furniture,Consumer,Same Day,17,125.01,0.0,29.91,2125.17,174.35,April,2022,Q2
+ORD-00071,2023-09-27,South,Furniture,Consumer,Standard Class,1,127.67,0.0,34.1,127.67,0.58,September,2023,Q3
+ORD-00072,2023-02-24,South,Food & Beverages,Corporate,Standard Class,19,183.9,0.0,14.69,3494.1,357.86,February,2023,Q1
+ORD-00073,2023-09-14,West,Food & Beverages,Consumer,Standard Class,4,239.35,0.2,43.31,765.92,131.42,September,2023,Q3
+ORD-00074,2022-07-01,North,Clothing,Consumer,Standard Class,4,302.39,0.0,4.58,1209.56,360.53,July,2022,Q3
+ORD-00075,2022-01-30,East,Sports,Home Office,Standard Class,19,259.39,0.3,40.44,3449.89,655.69,January,2022,Q1
+ORD-00076,2023-10-24,South,Clothing,Consumer,Standard Class,14,116.62,0.0,7.75,1632.68,95.18,October,2023,Q4
+ORD-00077,2023-09-10,North,Clothing,Consumer,Standard Class,5,334.6,0.2,3.18,1338.4,292.42,September,2023,Q3
+ORD-00078,2022-04-19,South,Food & Beverages,Corporate,Second Class,8,235.52,0.1,14.97,1695.74,88.9,April,2022,Q2
+ORD-00079,2022-02-15,East,Food & Beverages,Corporate,Standard Class,6,325.14,0.1,48.26,1755.76,502.55,February,2022,Q1
+ORD-00080,2022-12-16,South,Food & Beverages,Consumer,Standard Class,17,215.77,0.1,19.28,3301.28,381.54,December,2022,Q4
+ORD-00081,2023-03-24,North,Clothing,Corporate,Second Class,19,150.17,0.1,33.71,2567.91,537.95,March,2023,Q1
+ORD-00082,2023-03-23,South,Electronics,Home Office,Second Class,8,66.39,0.1,20.06,478.01,118.43,March,2023,Q1
+ORD-00083,2023-06-28,East,Furniture,Corporate,Standard Class,14,404.19,0.4,46.84,3395.2,833.44,June,2023,Q2
+ORD-00084,2023-08-11,West,Furniture,Corporate,Standard Class,11,103.39,0.2,34.61,909.83,282.66,August,2023,Q3
+ORD-00085,2022-02-11,West,Electronics,Consumer,Second Class,12,23.33,0.3,7.84,195.97,59.51,February,2022,Q1
+ORD-00086,2023-11-26,North,Food & Beverages,Corporate,Standard Class,6,102.26,0.1,12.43,552.2,129.29,November,2023,Q4
+ORD-00087,2022-08-18,West,Clothing,Home Office,Second Class,18,35.19,0.4,19.96,380.05,12.27,August,2022,Q3
+ORD-00088,2023-06-20,East,Furniture,Consumer,Standard Class,2,488.42,0.0,26.17,976.84,28.45,June,2023,Q2
+ORD-00089,2022-10-26,West,Food & Beverages,Corporate,Same Day,15,338.76,0.2,45.17,4065.12,1058.3,October,2022,Q4
+ORD-00090,2022-12-14,West,Furniture,Consumer,First Class,5,307.32,0.0,11.63,1536.6,212.9,December,2022,Q4
+ORD-00091,2022-06-15,East,Furniture,Consumer,Standard Class,5,309.54,0.2,15.38,1238.16,218.29,June,2022,Q2
+ORD-00092,2022-06-10,North,Food & Beverages,Consumer,Standard Class,2,113.51,0.2,49.54,181.62,-30.81,June,2022,Q2
+ORD-00093,2023-01-27,East,Food & Beverages,Corporate,Second Class,18,128.26,0.2,42.91,1846.94,210.33,January,2023,Q1
+ORD-00094,2022-10-12,South,Clothing,Consumer,Standard Class,17,396.01,0.0,41.24,6732.17,552.85,October,2022,Q4
+ORD-00095,2022-07-07,West,Clothing,Home Office,Standard Class,15,272.39,0.4,22.18,2451.51,216.85,July,2022,Q3
+ORD-00096,2022-11-22,South,Clothing,Consumer,Standard Class,2,356.71,0.0,18.34,713.42,217.85,November,2022,Q4
+ORD-00097,2023-02-28,East,Furniture,Home Office,Second Class,3,277.09,0.1,37.97,748.14,195.43,February,2023,Q1
+ORD-00098,2022-07-04,East,Furniture,Corporate,Standard Class,5,130.01,0.1,9.5,585.04,86.05,July,2022,Q3
+ORD-00099,2023-01-12,South,Electronics,Home Office,Standard Class,1,327.11,0.1,48.78,294.4,-30.32,January,2023,Q1
+ORD-00100,2023-11-20,North,Clothing,Consumer,Second Class,19,187.59,0.0,30.31,3564.21,588.74,November,2023,Q4
+ORD-00101,2022-12-01,South,Sports,Consumer,Second Class,9,191.82,0.1,26.62,1553.74,126.51,December,2022,Q4
+ORD-00102,2022-02-04,West,Electronics,Corporate,Second Class,6,173.96,0.3,24.03,730.63,130.44,February,2022,Q1
+ORD-00103,2022-12-22,East,Food & Beverages,Consumer,Standard Class,13,135.27,0.0,36.61,1758.51,460.45,December,2022,Q4
+ORD-00104,2023-07-19,East,Furniture,Consumer,Standard Class,8,404.37,0.4,20.54,1940.98,436.56,July,2023,Q3
+ORD-00105,2023-11-04,West,Electronics,Consumer,First Class,11,116.69,0.0,41.83,1283.59,234.38,November,2023,Q4
+ORD-00106,2022-11-17,South,Clothing,Home Office,Same Day,13,219.69,0.2,40.58,2284.78,519.75,November,2022,Q4
+ORD-00107,2023-08-14,North,Electronics,Consumer,Second Class,18,192.51,0.0,42.04,3465.18,1129.15,August,2023,Q3
+ORD-00108,2022-12-28,South,Sports,Consumer,Standard Class,9,440.12,0.1,7.88,3564.97,244.62,December,2022,Q4
+ORD-00109,2022-11-11,North,Clothing,Consumer,Standard Class,7,467.54,0.0,30.13,3272.78,349.69,November,2022,Q4
+ORD-00110,2023-01-12,North,Electronics,Home Office,Second Class,10,486.51,0.2,35.36,3892.08,474.55,January,2023,Q1
+ORD-00111,2023-04-21,East,Sports,Corporate,Standard Class,19,96.7,0.1,34.81,1653.57,459.97,April,2023,Q2
+ORD-00112,2023-10-20,West,Sports,Home Office,Standard Class,8,177.67,0.1,37.9,1279.22,66.03,October,2023,Q4
+ORD-00113,2022-01-14,South,Electronics,Consumer,First Class,5,244.48,0.0,15.28,1222.4,263.56,January,2022,Q1
+ORD-00114,2022-08-29,South,Food & Beverages,Home Office,Same Day,12,308.71,0.2,25.88,2963.62,804.87,August,2022,Q3
+ORD-00115,2023-11-27,North,Clothing,Consumer,Standard Class,5,495.51,0.0,24.08,2477.55,377.29,November,2023,Q4
+ORD-00116,2023-06-22,East,Electronics,Consumer,Standard Class,5,238.02,0.2,16.54,952.08,70.58,June,2023,Q2
+ORD-00117,2023-01-30,North,Food & Beverages,Home Office,Standard Class,17,92.35,0.0,38.8,1569.95,447.36,January,2023,Q1
+ORD-00118,2022-06-09,East,Clothing,Consumer,Second Class,16,279.41,0.0,5.34,4470.56,1097.14,June,2022,Q2
+ORD-00119,2023-05-19,East,Clothing,Corporate,Standard Class,13,377.43,0.1,14.36,4415.93,470.35,May,2023,Q2
+ORD-00120,2023-06-19,East,Furniture,Consumer,Standard Class,13,76.28,0.1,12.39,892.48,296.24,June,2023,Q2
+ORD-00121,2023-10-13,South,Furniture,Corporate,Second Class,19,85.63,0.2,43.2,1301.58,195.42,October,2023,Q4
+ORD-00122,2023-09-13,West,Clothing,Home Office,Standard Class,2,362.81,0.3,25.42,507.93,18.27,September,2023,Q3
+ORD-00123,2022-12-20,East,Clothing,Home Office,Standard Class,10,83.71,0.1,20.98,753.39,17.31,December,2022,Q4
+ORD-00124,2022-08-31,South,Electronics,Corporate,Standard Class,14,498.38,0.3,29.17,4884.12,1057.92,August,2022,Q3
+ORD-00125,2022-02-08,South,Electronics,Consumer,Standard Class,10,247.81,0.0,35.73,2478.1,810.65,February,2022,Q1
+ORD-00126,2023-02-07,West,Clothing,Corporate,Second Class,7,406.21,0.1,48.05,2559.12,339.38,February,2023,Q1
+ORD-00127,2023-08-13,West,Sports,Consumer,Standard Class,2,170.78,0.2,46.99,273.25,-4.37,August,2023,Q3
+ORD-00128,2022-07-09,East,Electronics,Consumer,Standard Class,1,404.25,0.0,3.61,404.25,26.02,July,2022,Q3
+ORD-00129,2022-09-12,East,Clothing,Home Office,Standard Class,18,107.08,0.2,45.89,1541.95,100.33,September,2022,Q3
+ORD-00130,2022-05-11,North,Clothing,Consumer,Standard Class,14,337.23,0.0,47.65,4721.22,657.95,May,2022,Q2
+ORD-00131,2022-02-09,West,Clothing,Consumer,Standard Class,5,223.67,0.0,48.03,1118.35,277.26,February,2022,Q1
+ORD-00132,2023-10-06,South,Sports,Corporate,Standard Class,7,146.8,0.1,28.91,924.84,64.27,October,2023,Q4
+ORD-00133,2023-08-15,East,Clothing,Corporate,First Class,17,449.32,0.2,17.49,6110.75,1447.0,August,2023,Q3
+ORD-00134,2022-09-13,North,Furniture,Consumer,Standard Class,2,495.84,0.1,42.82,892.51,49.67,September,2022,Q3
+ORD-00135,2022-04-05,East,Food & Beverages,Corporate,Standard Class,12,333.96,0.1,32.59,3606.77,481.54,April,2022,Q2
+ORD-00136,2022-06-07,South,Electronics,Corporate,Standard Class,4,421.51,0.2,49.57,1348.83,267.71,June,2022,Q2
+ORD-00137,2023-07-01,West,Sports,Consumer,Second Class,5,124.94,0.1,26.79,562.23,122.45,July,2023,Q3
+ORD-00138,2022-08-07,North,Sports,Corporate,Standard Class,6,369.86,0.2,29.45,1775.33,561.99,August,2022,Q3
+ORD-00139,2023-02-22,West,Electronics,Corporate,Standard Class,9,380.62,0.3,15.73,2397.91,348.74,February,2023,Q1
+ORD-00140,2022-05-20,North,Clothing,Consumer,Standard Class,5,401.35,0.0,3.0,2006.75,666.08,May,2022,Q2
+ORD-00141,2023-10-18,South,Electronics,Consumer,Second Class,7,69.78,0.0,24.72,488.46,25.83,October,2023,Q4
+ORD-00142,2022-05-08,North,Electronics,Consumer,Standard Class,9,287.46,0.1,17.7,2328.43,749.98,May,2022,Q2
+ORD-00143,2022-08-12,East,Clothing,Consumer,Standard Class,7,432.38,0.1,24.79,2723.99,838.27,August,2022,Q3
+ORD-00144,2022-03-09,South,Clothing,Consumer,Standard Class,11,177.08,0.3,7.46,1363.52,239.29,March,2022,Q1
+ORD-00145,2022-07-23,West,Electronics,Home Office,Standard Class,17,350.24,0.4,41.85,3572.45,948.35,July,2022,Q3
+ORD-00146,2022-05-03,North,Furniture,Consumer,Standard Class,9,198.66,0.0,8.89,1787.94,478.67,May,2022,Q2
+ORD-00147,2022-07-18,West,Food & Beverages,Consumer,Second Class,5,152.95,0.1,18.6,688.28,194.03,July,2022,Q3
+ORD-00148,2022-02-22,South,Furniture,Consumer,Standard Class,11,95.31,0.4,6.96,629.05,42.98,February,2022,Q1
+ORD-00149,2022-10-25,East,Clothing,Corporate,Second Class,16,75.07,0.1,18.42,1081.01,332.65,October,2022,Q4
+ORD-00150,2022-12-21,East,Food & Beverages,Corporate,Standard Class,5,283.74,0.3,28.39,993.09,99.31,December,2022,Q4
+ORD-00151,2023-10-10,North,Electronics,Consumer,Standard Class,11,446.76,0.4,46.03,2948.62,314.34,October,2023,Q4
+ORD-00152,2022-05-30,West,Electronics,Home Office,Standard Class,2,194.43,0.0,22.16,388.86,20.49,May,2022,Q2
+ORD-00153,2023-06-02,East,Electronics,Consumer,Standard Class,6,290.37,0.0,41.71,1742.22,224.19,June,2023,Q2
+ORD-00154,2023-02-19,West,Electronics,Consumer,Standard Class,8,471.93,0.1,11.69,3397.9,418.86,February,2023,Q1
+ORD-00155,2023-12-07,East,Electronics,Consumer,Standard Class,6,278.04,0.2,39.37,1334.59,74.05,December,2023,Q4
+ORD-00156,2022-01-22,West,Electronics,Consumer,Standard Class,19,408.99,0.2,25.59,6216.65,936.37,January,2022,Q1
+ORD-00157,2022-08-29,East,Furniture,Consumer,Second Class,18,150.01,0.1,31.78,2430.16,788.03,August,2022,Q3
+ORD-00158,2022-04-09,East,Furniture,Consumer,First Class,16,21.9,0.1,18.84,315.36,18.23,April,2022,Q2
+ORD-00159,2022-02-09,East,Electronics,Home Office,Standard Class,16,339.16,0.0,38.32,5426.56,497.69,February,2022,Q1
+ORD-00160,2023-03-21,South,Clothing,Consumer,Second Class,12,30.38,0.0,18.33,364.56,11.79,March,2023,Q1
+ORD-00161,2023-10-03,North,Food & Beverages,Home Office,Standard Class,17,228.51,0.0,33.03,3884.67,1042.77,October,2023,Q4
+ORD-00162,2022-03-12,East,Food & Beverages,Consumer,Standard Class,13,109.78,0.3,32.63,999.0,261.73,March,2022,Q1
+ORD-00163,2022-10-02,South,Food & Beverages,Consumer,First Class,3,303.02,0.1,27.22,818.15,106.4,October,2022,Q4
+ORD-00164,2022-09-22,East,Clothing,Corporate,Same Day,16,491.96,0.1,28.5,7084.22,2144.12,September,2022,Q3
+ORD-00165,2023-06-19,East,Clothing,Consumer,Standard Class,5,68.31,0.0,32.1,341.55,82.68,June,2023,Q2
+ORD-00166,2022-04-25,South,Clothing,Consumer,Standard Class,6,151.63,0.0,3.66,909.78,219.45,April,2022,Q2
+ORD-00167,2023-09-22,North,Food & Beverages,Consumer,Standard Class,2,105.53,0.1,15.09,189.95,-4.81,September,2023,Q3
+ORD-00168,2022-07-27,West,Sports,Home Office,Standard Class,13,69.16,0.1,45.45,809.17,199.45,July,2022,Q3
+ORD-00169,2022-01-02,East,Electronics,Corporate,Standard Class,5,10.5,0.3,29.2,36.75,-19.72,January,2022,Q1
+ORD-00170,2023-10-26,West,Furniture,Corporate,Standard Class,5,336.32,0.1,29.77,1513.44,361.81,October,2023,Q4
+ORD-00171,2022-05-20,South,Electronics,Consumer,First Class,7,221.0,0.1,18.71,1392.3,358.83,May,2022,Q2
+ORD-00172,2023-08-03,West,Electronics,Consumer,Standard Class,15,426.37,0.2,27.69,5116.44,967.53,August,2023,Q3
+ORD-00173,2023-05-21,West,Sports,Corporate,Second Class,3,280.02,0.0,17.31,840.06,36.52,May,2023,Q2
+ORD-00174,2022-09-06,South,Food & Beverages,Consumer,Standard Class,12,399.99,0.1,48.49,4319.89,1303.37,September,2022,Q3
+ORD-00175,2022-10-14,South,Electronics,Corporate,Standard Class,7,335.51,0.2,34.33,1878.86,205.86,October,2022,Q4
+ORD-00176,2022-12-06,South,Clothing,Consumer,Standard Class,5,226.86,0.0,29.86,1134.3,30.38,December,2022,Q4
+ORD-00177,2022-06-11,South,Food & Beverages,Corporate,Standard Class,11,162.87,0.0,41.24,1791.57,313.21,June,2022,Q2
+ORD-00178,2023-04-04,West,Clothing,Consumer,First Class,19,201.12,0.1,29.25,3439.15,1092.39,April,2023,Q2
+ORD-00179,2022-02-01,North,Sports,Home Office,First Class,12,54.02,0.0,8.94,648.24,146.92,February,2022,Q1
+ORD-00180,2022-05-14,North,Clothing,Consumer,Standard Class,1,309.92,0.0,27.19,309.92,26.24,May,2022,Q2
+ORD-00181,2023-02-18,South,Food & Beverages,Home Office,Standard Class,14,168.91,0.0,25.56,2364.74,150.45,February,2023,Q1
+ORD-00182,2022-11-01,East,Electronics,Corporate,Standard Class,13,19.16,0.0,48.36,249.08,22.46,November,2022,Q4
+ORD-00183,2023-10-26,North,Food & Beverages,Consumer,Standard Class,10,44.62,0.0,12.71,446.2,132.56,October,2023,Q4
+ORD-00184,2022-11-08,East,Furniture,Corporate,Standard Class,2,45.57,0.1,16.66,82.03,-10.97,November,2022,Q4
+ORD-00185,2022-09-14,East,Electronics,Home Office,First Class,4,24.84,0.0,31.51,99.36,-0.54,September,2022,Q3
+ORD-00186,2022-11-24,East,Electronics,Home Office,Second Class,7,283.57,0.0,49.81,1984.99,472.01,November,2022,Q4
+ORD-00187,2022-06-01,North,Food & Beverages,Corporate,Second Class,16,140.22,0.2,21.11,1794.82,352.47,June,2022,Q2
+ORD-00188,2023-04-30,North,Clothing,Consumer,Standard Class,13,390.65,0.1,37.39,4570.6,771.93,April,2023,Q2
+ORD-00189,2023-03-08,South,Sports,Corporate,Standard Class,3,208.44,0.2,23.35,500.26,60.88,March,2023,Q1
+ORD-00190,2023-03-09,South,Furniture,Corporate,Standard Class,15,90.63,0.0,18.03,1359.45,385.41,March,2023,Q1
+ORD-00191,2022-12-28,North,Clothing,Consumer,Standard Class,11,74.76,0.2,38.98,657.89,147.68,December,2022,Q4
+ORD-00192,2023-10-28,South,Electronics,Consumer,Standard Class,4,305.88,0.1,3.67,1101.17,257.04,October,2023,Q4
+ORD-00193,2023-02-13,South,Electronics,Consumer,Standard Class,17,408.66,0.0,38.94,6947.22,591.1,February,2023,Q1
+ORD-00194,2023-06-15,South,Furniture,Consumer,Second Class,12,62.09,0.1,15.49,670.57,169.75,June,2023,Q2
+ORD-00195,2022-11-17,North,Clothing,Home Office,Standard Class,4,325.68,0.0,21.59,1302.72,334.03,November,2022,Q4
+ORD-00196,2023-06-06,East,Food & Beverages,Home Office,Standard Class,19,464.74,0.2,43.29,7064.05,536.33,June,2023,Q2
+ORD-00197,2023-08-01,West,Sports,Consumer,Standard Class,12,400.83,0.0,43.62,4809.96,934.67,August,2023,Q3
+ORD-00198,2023-10-15,North,Clothing,Consumer,Second Class,5,402.88,0.0,6.45,2014.4,333.62,October,2023,Q4
+ORD-00199,2023-04-18,North,Electronics,Home Office,Standard Class,17,362.58,0.1,15.5,5547.47,1407.18,April,2023,Q2
+ORD-00200,2023-05-20,South,Electronics,Corporate,Standard Class,10,398.15,0.0,38.51,3981.5,417.5,May,2023,Q2
+ORD-00201,2023-09-24,North,Electronics,Home Office,Standard Class,10,16.38,0.0,47.16,163.8,-2.45,September,2023,Q3
+ORD-00202,2022-04-06,North,Clothing,Corporate,Same Day,16,125.75,0.1,33.98,1810.8,103.17,April,2022,Q2
+ORD-00203,2022-12-26,West,Clothing,Consumer,Standard Class,17,145.35,0.1,43.33,2223.86,280.89,December,2022,Q4
+ORD-00204,2023-10-21,South,Electronics,Home Office,First Class,13,385.87,0.2,39.91,4013.05,767.36,October,2023,Q4
+ORD-00205,2022-03-08,North,Clothing,Consumer,First Class,18,353.02,0.1,18.08,5718.92,1516.39,March,2022,Q1
+ORD-00206,2022-09-01,South,Clothing,Consumer,Second Class,6,344.34,0.2,47.7,1652.83,429.97,September,2022,Q3
+ORD-00207,2022-06-08,South,Clothing,Consumer,Second Class,1,459.01,0.0,17.22,459.01,37.98,June,2022,Q2
+ORD-00208,2022-01-17,North,Electronics,Consumer,Standard Class,17,254.2,0.2,35.51,3457.12,772.0,January,2022,Q1
+ORD-00209,2022-10-18,South,Furniture,Home Office,First Class,17,494.02,0.0,36.76,8398.34,1948.13,October,2022,Q4
+ORD-00210,2023-10-21,South,Food & Beverages,Consumer,Standard Class,15,381.62,0.0,3.69,5724.3,1191.34,October,2023,Q4
+ORD-00211,2022-05-14,East,Furniture,Corporate,Standard Class,7,264.73,0.0,23.69,1853.11,527.57,May,2022,Q2
+ORD-00212,2023-03-07,East,Electronics,Consumer,Standard Class,18,403.35,0.1,29.36,6534.27,458.86,March,2023,Q1
+ORD-00213,2023-05-01,East,Food & Beverages,Consumer,Second Class,2,58.22,0.2,42.52,93.15,-19.05,May,2023,Q2
+ORD-00214,2023-02-17,East,Electronics,Home Office,Second Class,10,368.87,0.1,10.87,3319.83,664.27,February,2023,Q1
+ORD-00215,2022-07-18,West,Food & Beverages,Home Office,Standard Class,4,472.0,0.0,38.07,1888.0,76.34,July,2022,Q3
+ORD-00216,2023-10-08,East,Food & Beverages,Home Office,First Class,7,209.23,0.3,34.14,1025.23,255.68,October,2023,Q4
+ORD-00217,2022-09-08,North,Electronics,Consumer,Same Day,2,46.14,0.2,28.33,73.82,-22.74,September,2022,Q3
+ORD-00218,2023-06-30,East,Food & Beverages,Corporate,Same Day,9,433.73,0.1,33.82,3513.21,316.9,June,2023,Q2
+ORD-00219,2022-12-12,North,Sports,Consumer,Same Day,18,223.75,0.3,19.33,2819.25,490.38,December,2022,Q4
+ORD-00220,2022-07-16,East,Clothing,Home Office,Second Class,2,394.44,0.0,34.95,788.88,234.38,July,2022,Q3
+ORD-00221,2023-07-09,North,Clothing,Home Office,Second Class,11,38.92,0.4,25.81,256.87,-10.66,July,2023,Q3
+ORD-00222,2022-10-13,East,Food & Beverages,Home Office,Standard Class,10,389.64,0.1,27.4,3506.76,447.5,October,2022,Q4
+ORD-00223,2022-05-01,West,Clothing,Corporate,Standard Class,18,292.76,0.0,10.52,5269.68,1370.52,May,2022,Q2
+ORD-00224,2022-08-27,South,Sports,Corporate,Second Class,7,185.83,0.1,35.48,1170.73,312.02,August,2022,Q3
+ORD-00225,2022-09-10,West,Furniture,Consumer,Standard Class,10,56.35,0.0,29.24,563.5,54.12,September,2022,Q3
+ORD-00226,2022-01-15,East,Furniture,Consumer,Standard Class,12,261.11,0.0,26.36,3133.32,549.83,January,2022,Q1
+ORD-00227,2023-06-16,North,Clothing,Consumer,First Class,7,495.07,0.1,39.4,3118.94,223.31,June,2023,Q2
+ORD-00228,2023-06-10,North,Sports,Consumer,First Class,5,154.84,0.0,36.38,774.2,106.36,June,2023,Q2
+ORD-00229,2023-07-14,South,Electronics,Home Office,First Class,6,489.51,0.2,12.09,2349.65,578.6,July,2023,Q3
+ORD-00230,2022-01-22,North,Electronics,Corporate,Standard Class,19,152.67,0.2,15.23,2320.58,683.02,January,2022,Q1
+ORD-00231,2023-03-03,West,Furniture,Consumer,Standard Class,12,94.33,0.0,42.34,1131.96,107.94,March,2023,Q1
+ORD-00232,2023-01-31,West,Clothing,Consumer,Standard Class,1,303.84,0.1,36.57,273.46,11.99,January,2023,Q1
+ORD-00233,2022-05-30,South,Furniture,Consumer,Standard Class,16,227.49,0.4,25.55,2183.9,298.44,May,2022,Q2
+ORD-00234,2023-08-25,East,Furniture,Corporate,Standard Class,4,310.39,0.4,12.16,744.94,174.43,August,2023,Q3
+ORD-00235,2022-12-14,North,Food & Beverages,Corporate,Standard Class,6,63.46,0.1,13.29,342.68,93.33,December,2022,Q4
+ORD-00236,2022-10-24,North,Clothing,Home Office,Standard Class,6,217.19,0.0,34.92,1303.14,148.04,October,2022,Q4
+ORD-00237,2023-03-01,East,Furniture,Consumer,Second Class,17,324.78,0.3,42.67,3864.88,1272.31,March,2023,Q1
+ORD-00238,2022-03-10,North,Electronics,Consumer,Standard Class,1,43.86,0.4,11.04,26.32,-6.21,March,2022,Q1
+ORD-00239,2022-04-09,West,Furniture,Consumer,First Class,18,327.4,0.1,5.35,5303.88,461.95,April,2022,Q2
+ORD-00240,2023-07-05,West,Furniture,Corporate,Standard Class,12,287.32,0.0,37.21,3447.84,622.35,July,2023,Q3
+ORD-00241,2022-01-02,East,Electronics,Consumer,Standard Class,15,245.69,0.1,44.07,3316.82,904.65,January,2022,Q1
+ORD-00242,2023-06-13,East,Electronics,Home Office,Same Day,8,69.13,0.2,35.68,442.43,15.56,June,2023,Q2
+ORD-00243,2023-03-31,South,Food & Beverages,Consumer,Standard Class,4,48.87,0.3,15.62,136.84,31.33,March,2023,Q1
+ORD-00244,2023-10-03,West,Electronics,Home Office,Standard Class,13,61.02,0.2,35.5,634.61,179.23,October,2023,Q4
+ORD-00245,2023-12-27,South,Furniture,Corporate,Standard Class,8,302.15,0.3,30.3,1692.04,233.42,December,2023,Q4
+ORD-00246,2023-03-20,East,Clothing,Corporate,Second Class,12,59.75,0.1,10.78,645.3,179.99,March,2023,Q1
+ORD-00247,2022-07-13,West,Clothing,Consumer,Standard Class,18,227.01,0.1,32.21,3677.56,1249.35,July,2022,Q3
+ORD-00248,2022-11-20,West,Clothing,Consumer,Standard Class,6,411.47,0.3,21.65,1728.17,223.52,November,2022,Q4
+ORD-00249,2023-04-25,North,Furniture,Corporate,Standard Class,6,27.19,0.1,29.78,146.83,-11.37,April,2023,Q2
+ORD-00250,2022-11-22,North,Furniture,Corporate,Standard Class,16,269.3,0.0,37.25,4308.8,1397.72,November,2022,Q4
+ORD-00251,2022-07-21,West,Clothing,Corporate,First Class,5,72.28,0.0,13.14,361.4,18.32,July,2022,Q3
+ORD-00252,2022-04-27,South,Electronics,Home Office,Standard Class,10,380.57,0.1,22.1,3425.13,518.3,April,2022,Q2
+ORD-00253,2022-04-08,East,Food & Beverages,Consumer,Standard Class,7,364.73,0.2,8.22,2042.49,161.32,April,2022,Q2
+ORD-00254,2022-12-13,South,Clothing,Corporate,Standard Class,14,232.92,0.2,43.39,2608.7,289.43,December,2022,Q4
+ORD-00255,2023-08-23,North,Electronics,Corporate,Standard Class,4,263.99,0.3,13.79,739.17,172.81,August,2023,Q3
+ORD-00256,2022-08-30,North,Furniture,Corporate,Standard Class,16,465.89,0.0,18.59,7454.24,1905.92,August,2022,Q3
+ORD-00257,2023-02-09,North,Clothing,Home Office,Second Class,1,166.88,0.0,37.93,166.88,-22.52,February,2023,Q1
+ORD-00258,2022-02-26,South,Furniture,Consumer,Standard Class,9,444.67,0.1,18.56,3601.83,529.34,February,2022,Q1
+ORD-00259,2023-09-14,West,Electronics,Corporate,Second Class,7,13.0,0.0,30.93,91.0,0.36,September,2023,Q3
+ORD-00260,2022-06-20,North,Electronics,Consumer,First Class,10,276.36,0.0,19.45,2763.6,730.47,June,2022,Q2
+ORD-00261,2023-05-08,North,Electronics,Corporate,Standard Class,13,205.63,0.2,46.18,2138.55,360.51,May,2023,Q2
+ORD-00262,2022-07-25,East,Food & Beverages,Home Office,Second Class,1,45.98,0.1,8.24,41.38,-4.59,July,2022,Q3
+ORD-00263,2022-04-01,South,Clothing,Consumer,Standard Class,7,308.57,0.2,45.54,1727.99,444.47,April,2022,Q2
+ORD-00264,2023-03-23,North,Electronics,Corporate,First Class,4,77.2,0.0,22.59,308.8,31.51,March,2023,Q1
+ORD-00265,2023-05-02,North,Electronics,Home Office,Standard Class,11,111.27,0.2,49.17,979.18,58.57,May,2023,Q2
+ORD-00266,2023-04-06,South,Clothing,Corporate,Standard Class,16,32.3,0.2,38.56,413.44,21.81,April,2023,Q2
+ORD-00267,2022-03-15,North,Clothing,Corporate,Second Class,5,132.54,0.1,17.48,596.43,138.71,March,2022,Q1
+ORD-00268,2023-09-15,East,Electronics,Consumer,Standard Class,8,157.57,0.2,12.35,1008.45,285.99,September,2023,Q3
+ORD-00269,2023-08-13,South,Clothing,Home Office,Standard Class,6,447.23,0.2,6.24,2146.7,649.14,August,2023,Q3
+ORD-00270,2022-05-09,South,Electronics,Corporate,Standard Class,2,475.59,0.3,39.34,665.83,128.57,May,2022,Q2
+ORD-00271,2022-05-26,East,Electronics,Consumer,Second Class,11,15.81,0.1,3.22,156.52,7.95,May,2022,Q2
+ORD-00272,2022-09-04,East,Food & Beverages,Home Office,Standard Class,18,379.39,0.3,23.83,4780.31,296.27,September,2022,Q3
+ORD-00273,2023-10-15,North,Furniture,Consumer,Standard Class,6,92.99,0.0,24.64,557.94,136.74,October,2023,Q4
+ORD-00274,2022-02-01,North,Electronics,Consumer,Standard Class,5,172.4,0.2,14.36,689.6,150.93,February,2022,Q1
+ORD-00275,2023-09-17,North,Food & Beverages,Consumer,Second Class,10,57.91,0.2,8.45,463.28,72.92,September,2023,Q3
+ORD-00276,2022-04-21,South,Food & Beverages,Home Office,First Class,2,92.31,0.2,41.23,147.7,-27.37,April,2022,Q2
+ORD-00277,2023-12-17,North,Food & Beverages,Consumer,Standard Class,16,329.45,0.0,47.57,5271.2,618.89,December,2023,Q4
+ORD-00278,2022-10-19,South,Furniture,Consumer,Second Class,7,46.62,0.0,48.1,326.34,-1.91,October,2022,Q4
+ORD-00279,2023-02-11,East,Clothing,Corporate,Standard Class,15,270.56,0.0,41.76,4058.4,1326.44,February,2023,Q1
+ORD-00280,2023-01-24,West,Electronics,Corporate,Second Class,15,117.06,0.0,29.83,1755.9,84.29,January,2023,Q1
+ORD-00281,2022-03-18,East,Clothing,Consumer,Standard Class,8,437.64,0.1,6.76,3151.01,402.95,March,2022,Q1
+ORD-00282,2023-01-15,North,Furniture,Corporate,Standard Class,12,141.89,0.0,34.43,1702.68,311.15,January,2023,Q1
+ORD-00283,2023-09-06,North,Electronics,Corporate,Standard Class,10,145.42,0.2,22.98,1163.36,371.85,September,2023,Q3
+ORD-00284,2022-06-09,South,Electronics,Consumer,First Class,16,396.27,0.2,8.51,5072.26,567.35,June,2022,Q2
+ORD-00285,2022-09-13,North,Sports,Consumer,Standard Class,4,456.69,0.1,46.63,1644.08,380.27,September,2022,Q3
+ORD-00286,2022-03-24,North,Sports,Consumer,Standard Class,1,348.93,0.0,37.57,348.93,38.87,March,2022,Q1
+ORD-00287,2022-02-09,West,Furniture,Consumer,Standard Class,12,207.42,0.0,33.34,2489.04,339.99,February,2022,Q1
+ORD-00288,2023-06-18,South,Furniture,Home Office,Second Class,5,414.97,0.3,23.64,1452.4,215.87,June,2023,Q2
+ORD-00289,2023-10-24,North,Clothing,Corporate,Standard Class,11,88.07,0.3,28.6,678.14,188.9,October,2023,Q4
+ORD-00290,2022-01-25,East,Clothing,Corporate,Standard Class,16,90.66,0.2,8.63,1160.45,236.71,January,2022,Q1
+ORD-00291,2023-03-20,South,Food & Beverages,Consumer,Second Class,7,183.94,0.2,24.05,1030.06,140.25,March,2023,Q1
+ORD-00292,2022-04-17,South,Food & Beverages,Consumer,First Class,13,471.99,0.0,48.65,6135.87,1730.35,April,2022,Q2
+ORD-00293,2023-04-06,South,Furniture,Home Office,Standard Class,10,412.35,0.1,10.4,3711.15,655.25,April,2023,Q2
+ORD-00294,2022-04-08,North,Furniture,Corporate,First Class,5,183.35,0.2,48.53,733.4,160.1,April,2022,Q2
+ORD-00295,2023-11-04,North,Electronics,Corporate,Standard Class,19,65.77,0.2,7.34,999.7,211.55,November,2023,Q4
+ORD-00296,2022-02-01,West,Clothing,Consumer,Second Class,7,123.78,0.3,22.01,606.52,28.5,February,2022,Q1
+ORD-00297,2022-05-31,South,Food & Beverages,Corporate,Standard Class,6,253.59,0.2,13.4,1217.23,53.64,May,2022,Q2
+ORD-00298,2022-07-07,South,Electronics,Home Office,Standard Class,3,414.55,0.0,34.09,1243.65,176.88,July,2022,Q3
+ORD-00299,2022-02-24,West,Electronics,Consumer,Standard Class,12,387.46,0.2,46.69,3719.62,674.28,February,2022,Q1
+ORD-00300,2023-03-26,North,Electronics,Home Office,Standard Class,7,28.18,0.1,30.4,177.53,-5.27,March,2023,Q1
+ORD-00301,2023-02-05,North,Clothing,Home Office,Second Class,1,113.91,0.0,35.44,113.91,-20.19,February,2023,Q1
+ORD-00302,2023-02-14,North,Sports,Home Office,Second Class,4,345.55,0.2,17.6,1105.76,362.44,February,2023,Q1
+ORD-00303,2022-05-11,East,Electronics,Home Office,Second Class,13,411.4,0.2,26.86,4278.56,1410.28,May,2022,Q2
+ORD-00304,2022-09-18,North,Electronics,Consumer,Standard Class,11,20.72,0.1,27.22,205.13,10.24,September,2022,Q3
+ORD-00305,2022-11-21,North,Furniture,Consumer,Standard Class,19,290.5,0.1,6.83,4967.55,668.82,November,2022,Q4
+ORD-00306,2022-01-20,South,Food & Beverages,Consumer,Standard Class,17,174.51,0.2,17.48,2373.34,649.79,January,2022,Q1
+ORD-00307,2022-03-09,West,Electronics,Consumer,Second Class,8,486.6,0.1,29.11,3503.52,760.9,March,2022,Q1
+ORD-00308,2023-01-31,South,Furniture,Consumer,First Class,12,76.66,0.0,8.34,919.92,85.88,January,2023,Q1
+ORD-00309,2023-05-03,West,Furniture,Corporate,Standard Class,18,335.55,0.1,46.88,5435.91,1726.02,May,2023,Q2
+ORD-00310,2022-10-31,North,Food & Beverages,Consumer,Second Class,17,301.6,0.1,18.76,4614.48,805.16,October,2022,Q4
+ORD-00311,2023-06-09,East,Furniture,Consumer,Standard Class,15,102.34,0.1,7.7,1381.59,104.25,June,2023,Q2
+ORD-00312,2023-05-02,East,Furniture,Consumer,Standard Class,7,51.01,0.0,6.42,357.07,73.0,May,2023,Q2
+ORD-00313,2023-01-21,East,Clothing,Consumer,Standard Class,18,308.29,0.1,38.4,4994.3,1595.24,January,2023,Q1
+ORD-00314,2023-03-25,South,Furniture,Consumer,First Class,3,310.81,0.1,47.46,839.19,129.84,March,2023,Q1
+ORD-00315,2022-10-19,South,Furniture,Consumer,Standard Class,4,263.51,0.0,18.78,1054.04,37.74,October,2022,Q4
+ORD-00316,2022-09-18,South,Electronics,Consumer,First Class,7,362.27,0.2,19.23,2028.71,177.75,September,2022,Q3
+ORD-00317,2022-11-08,East,Food & Beverages,Consumer,Standard Class,7,285.03,0.3,22.99,1396.65,376.02,November,2022,Q4
+ORD-00318,2023-05-21,South,Food & Beverages,Corporate,Standard Class,8,223.74,0.1,25.78,1610.93,380.85,May,2023,Q2
+ORD-00319,2022-10-04,East,Clothing,Corporate,Standard Class,18,456.4,0.2,49.17,6572.16,1306.9,October,2022,Q4
+ORD-00320,2023-03-09,North,Furniture,Consumer,First Class,17,329.91,0.3,21.34,3925.93,1070.78,March,2023,Q1
+ORD-00321,2022-11-27,North,Electronics,Consumer,First Class,9,403.77,0.2,34.04,2907.14,776.65,November,2022,Q4
+ORD-00322,2023-07-19,North,Food & Beverages,Corporate,First Class,8,362.29,0.0,9.94,2898.32,936.2,July,2023,Q3
+ORD-00323,2023-03-17,North,Electronics,Consumer,Standard Class,10,443.48,0.0,47.85,4434.8,1337.08,March,2023,Q1
+ORD-00324,2022-08-01,East,Sports,Consumer,Second Class,15,80.14,0.0,37.3,1202.1,85.84,August,2022,Q3
+ORD-00325,2023-04-21,West,Furniture,Consumer,Standard Class,5,310.8,0.1,29.78,1398.6,239.65,April,2023,Q2
+ORD-00326,2023-04-21,North,Sports,Consumer,Same Day,11,290.76,0.0,26.42,3198.36,522.96,April,2023,Q2
+ORD-00327,2022-09-09,South,Clothing,Consumer,First Class,4,368.94,0.1,40.84,1328.18,348.67,September,2022,Q3
+ORD-00328,2022-05-28,East,Furniture,Consumer,Second Class,7,137.84,0.1,40.16,868.39,170.01,May,2022,Q2
+ORD-00329,2023-07-05,South,Furniture,Corporate,First Class,17,319.15,0.0,21.85,5425.55,1026.75,July,2023,Q3
+ORD-00330,2022-03-08,East,Clothing,Home Office,Standard Class,6,232.53,0.0,11.59,1395.18,383.72,March,2022,Q1
+ORD-00331,2022-02-09,East,Electronics,Consumer,Second Class,17,142.95,0.0,12.13,2430.15,640.27,February,2022,Q1
+ORD-00332,2023-08-28,North,Clothing,Home Office,First Class,6,491.65,0.1,28.37,2654.91,309.15,August,2023,Q3
+ORD-00333,2023-01-16,North,Clothing,Consumer,Standard Class,15,119.2,0.1,11.87,1609.2,122.72,January,2023,Q1
+ORD-00334,2022-09-06,West,Clothing,Consumer,Standard Class,1,445.01,0.2,40.16,356.01,69.75,September,2022,Q3
+ORD-00335,2022-04-06,South,Clothing,Consumer,Second Class,17,354.77,0.1,24.88,5427.98,330.56,April,2022,Q2
+ORD-00336,2022-09-23,North,Electronics,Consumer,Second Class,14,125.3,0.0,7.22,1754.2,161.94,September,2022,Q3
+ORD-00337,2023-08-15,North,Electronics,Corporate,Same Day,8,225.62,0.1,48.14,1624.46,79.45,August,2023,Q3
+ORD-00338,2022-12-30,East,Electronics,Consumer,Second Class,17,380.21,0.0,32.7,6463.57,659.97,December,2022,Q4
+ORD-00339,2022-07-04,North,Furniture,Home Office,Standard Class,8,54.75,0.0,25.74,438.0,110.68,July,2022,Q3
+ORD-00340,2022-02-28,North,Clothing,Corporate,Standard Class,18,316.7,0.2,14.87,4560.48,1376.22,February,2022,Q1
+ORD-00341,2022-05-04,East,Sports,Consumer,Standard Class,6,260.63,0.4,21.79,938.27,265.67,May,2022,Q2
+ORD-00342,2022-06-09,West,Electronics,Consumer,Standard Class,10,185.28,0.1,8.26,1667.52,342.49,June,2022,Q2
+ORD-00343,2023-06-20,North,Furniture,Consumer,Standard Class,15,422.87,0.3,45.7,4440.14,441.85,June,2023,Q2
+ORD-00344,2023-06-08,East,Food & Beverages,Consumer,Standard Class,2,64.39,0.1,49.11,115.9,-34.27,June,2023,Q2
+ORD-00345,2022-03-11,South,Sports,Consumer,Standard Class,13,452.2,0.3,22.97,4115.02,521.58,March,2022,Q1
+ORD-00346,2022-06-29,East,Clothing,Home Office,First Class,6,352.14,0.1,5.45,1901.56,612.17,June,2022,Q2
+ORD-00347,2023-05-26,South,Clothing,Home Office,Standard Class,12,434.42,0.2,5.37,4170.43,647.94,May,2023,Q2
+ORD-00348,2022-11-07,West,Furniture,Consumer,First Class,13,341.56,0.4,47.83,2664.17,707.16,November,2022,Q4
+ORD-00349,2022-12-31,South,Clothing,Consumer,Standard Class,19,470.48,0.2,43.44,7151.3,2034.27,December,2022,Q4
+ORD-00350,2022-10-10,North,Furniture,Corporate,Standard Class,1,69.55,0.1,37.34,62.6,-17.43,October,2022,Q4
+ORD-00351,2023-11-28,East,Clothing,Corporate,Same Day,5,57.74,0.0,41.62,288.7,28.28,November,2023,Q4
+ORD-00352,2022-05-01,South,Electronics,Corporate,Second Class,16,246.77,0.2,32.48,3158.66,700.19,May,2022,Q2
+ORD-00353,2022-06-14,South,Furniture,Corporate,Standard Class,19,481.85,0.0,9.16,9155.15,643.5,June,2022,Q2
+ORD-00354,2022-08-27,South,Furniture,Corporate,Second Class,19,486.23,0.3,7.04,6466.86,1197.89,August,2022,Q3
+ORD-00355,2023-02-19,North,Electronics,Consumer,Second Class,19,237.75,0.0,21.32,4517.25,927.92,February,2023,Q1
+ORD-00356,2022-10-21,North,Furniture,Consumer,Standard Class,17,10.41,0.0,36.26,176.97,-0.6,October,2022,Q4
+ORD-00357,2023-12-25,East,Sports,Corporate,Standard Class,18,54.67,0.2,7.61,787.25,197.92,December,2023,Q4
+ORD-00358,2023-07-12,North,Clothing,Home Office,Standard Class,11,487.29,0.0,9.88,5360.19,283.72,July,2023,Q3
+ORD-00359,2023-04-16,North,Food & Beverages,Consumer,Same Day,7,183.46,0.4,15.52,770.53,146.66,April,2023,Q2
+ORD-00360,2023-09-26,South,Electronics,Corporate,Standard Class,6,106.67,0.0,25.16,640.02,137.69,September,2023,Q3
+ORD-00361,2022-01-25,South,Clothing,Consumer,Standard Class,8,117.54,0.0,47.65,940.32,185.01,January,2022,Q1
+ORD-00362,2023-04-21,North,Clothing,Consumer,Standard Class,8,379.49,0.2,38.69,2428.74,328.74,April,2023,Q2
+ORD-00363,2023-06-30,West,Food & Beverages,Consumer,Second Class,13,444.4,0.0,30.08,5777.2,399.4,June,2023,Q2
+ORD-00364,2022-06-06,West,Clothing,Home Office,Same Day,1,60.11,0.3,16.0,42.08,-7.41,June,2022,Q2
+ORD-00365,2022-05-02,West,Food & Beverages,Consumer,Second Class,3,23.74,0.0,40.67,71.22,-25.8,May,2022,Q2
+ORD-00366,2022-12-08,North,Sports,Consumer,Second Class,12,169.2,0.0,16.38,2030.4,231.31,December,2022,Q4
+ORD-00367,2022-04-07,East,Furniture,Consumer,Standard Class,1,436.87,0.0,35.11,436.87,83.19,April,2022,Q2
+ORD-00368,2022-06-07,East,Sports,Consumer,First Class,9,280.36,0.1,22.36,2270.92,147.91,June,2022,Q2
+ORD-00369,2022-03-10,East,Electronics,Consumer,Standard Class,5,139.09,0.3,41.93,486.82,100.66,March,2022,Q1
+ORD-00370,2022-10-21,North,Clothing,Consumer,Standard Class,7,64.5,0.1,19.28,406.35,51.86,October,2022,Q4
+ORD-00371,2023-07-09,North,Furniture,Home Office,Standard Class,15,299.54,0.0,49.72,4493.1,592.04,July,2023,Q3
+ORD-00372,2022-03-27,South,Electronics,Corporate,Standard Class,13,114.06,0.2,31.89,1186.22,166.75,March,2022,Q1
+ORD-00373,2022-01-09,South,Electronics,Corporate,First Class,17,454.69,0.0,8.83,7729.73,1837.75,January,2022,Q1
+ORD-00374,2023-11-30,North,Clothing,Consumer,Second Class,3,433.88,0.2,21.79,1041.31,144.49,November,2023,Q4
+ORD-00375,2022-08-16,South,Electronics,Consumer,Standard Class,17,210.69,0.0,37.71,3581.73,900.47,August,2022,Q3
+ORD-00376,2022-12-04,East,Electronics,Consumer,First Class,19,102.72,0.3,4.98,1366.18,369.67,December,2022,Q4
+ORD-00377,2023-10-02,North,Clothing,Corporate,Standard Class,8,341.96,0.3,16.93,1914.98,122.88,October,2023,Q4
+ORD-00378,2022-10-07,East,Food & Beverages,Home Office,Second Class,11,232.85,0.0,12.17,2561.35,402.64,October,2022,Q4
+ORD-00379,2022-10-06,East,Electronics,Corporate,Second Class,12,444.09,0.4,36.98,3197.45,265.69,October,2022,Q4
+ORD-00380,2023-07-28,South,Electronics,Consumer,Second Class,13,352.35,0.0,15.72,4580.55,660.76,July,2023,Q3
+ORD-00381,2023-07-30,South,Furniture,Corporate,Second Class,13,444.45,0.0,27.11,5777.85,528.62,July,2023,Q3
+ORD-00382,2022-02-15,South,Clothing,Home Office,Standard Class,17,15.31,0.4,18.82,156.16,6.81,February,2022,Q1
+ORD-00383,2023-01-30,North,Furniture,Home Office,Second Class,1,457.07,0.0,24.14,457.07,50.02,January,2023,Q1
+ORD-00384,2023-03-03,South,Furniture,Corporate,Standard Class,2,106.02,0.0,8.71,212.04,41.31,March,2023,Q1
+ORD-00385,2023-06-16,West,Food & Beverages,Corporate,Standard Class,11,76.88,0.3,6.44,591.98,158.86,June,2023,Q2
+ORD-00386,2023-08-16,East,Electronics,Consumer,Standard Class,8,292.33,0.0,3.86,2338.64,436.82,August,2023,Q3
+ORD-00387,2022-04-03,East,Clothing,Corporate,Second Class,15,145.0,0.3,13.75,1522.5,144.78,April,2022,Q2
+ORD-00388,2022-05-14,West,Food & Beverages,Consumer,Standard Class,5,77.42,0.0,4.74,387.1,19.68,May,2022,Q2
+ORD-00389,2022-09-08,North,Electronics,Corporate,Standard Class,10,71.27,0.0,38.22,712.7,131.38,September,2022,Q3
+ORD-00390,2023-05-22,South,Electronics,Consumer,Standard Class,5,11.29,0.2,36.87,45.16,-34.5,May,2023,Q2
+ORD-00391,2023-09-14,West,Electronics,Corporate,Standard Class,9,187.51,0.0,29.19,1687.59,125.23,September,2023,Q3
+ORD-00392,2022-03-02,North,Sports,Consumer,Standard Class,5,428.69,0.0,5.91,2143.45,416.83,March,2022,Q1
+ORD-00393,2022-05-01,South,Electronics,Home Office,Same Day,19,482.62,0.2,32.56,7335.82,691.07,May,2022,Q2
+ORD-00394,2022-11-11,East,Clothing,Consumer,Standard Class,15,62.67,0.0,7.58,940.05,50.47,November,2022,Q4
+ORD-00395,2023-10-05,North,Furniture,Consumer,Standard Class,9,49.8,0.4,13.49,268.92,42.74,October,2023,Q4
+ORD-00396,2022-12-02,South,Furniture,Consumer,Second Class,16,203.73,0.4,3.11,1955.81,314.14,December,2022,Q4
+ORD-00397,2023-11-19,West,Furniture,Consumer,Same Day,12,435.76,0.0,48.36,5229.12,1563.26,November,2023,Q4
+ORD-00398,2023-05-06,West,Electronics,Consumer,Standard Class,19,233.84,0.0,41.45,4442.96,1140.51,May,2023,Q2
+ORD-00399,2023-11-26,West,Electronics,Consumer,Second Class,15,326.38,0.2,42.68,3916.56,421.3,November,2023,Q4
+ORD-00400,2023-07-12,East,Furniture,Corporate,Second Class,2,412.44,0.1,31.69,742.39,79.34,July,2023,Q3
+ORD-00401,2023-07-23,West,Food & Beverages,Consumer,Standard Class,16,431.82,0.0,39.24,6909.12,1474.18,July,2023,Q3
+ORD-00402,2023-08-25,South,Electronics,Consumer,First Class,8,349.44,0.1,30.79,2515.97,841.98,August,2023,Q3
+ORD-00403,2023-05-26,South,Food & Beverages,Home Office,First Class,6,187.37,0.3,25.32,786.95,200.41,May,2023,Q2
+ORD-00404,2023-02-15,North,Food & Beverages,Consumer,Standard Class,8,429.25,0.2,16.22,2747.2,124.91,February,2023,Q1
+ORD-00405,2022-10-08,West,Electronics,Consumer,Standard Class,5,287.77,0.4,12.99,863.31,200.64,October,2022,Q4
+ORD-00406,2022-02-17,West,Electronics,Consumer,Standard Class,17,99.47,0.0,19.78,1690.99,179.51,February,2022,Q1
+ORD-00407,2023-09-02,North,Furniture,Corporate,First Class,15,426.0,0.0,12.19,6390.0,1082.02,September,2023,Q3
+ORD-00408,2023-03-19,East,Clothing,Consumer,Standard Class,10,127.4,0.1,43.63,1146.6,108.88,March,2023,Q1
+ORD-00409,2023-08-08,East,Food & Beverages,Corporate,First Class,6,296.23,0.1,38.15,1599.64,92.67,August,2023,Q3
+ORD-00410,2023-11-23,North,Sports,Corporate,Standard Class,1,331.85,0.2,37.57,265.48,44.82,November,2023,Q4
+ORD-00411,2023-06-25,South,Food & Beverages,Corporate,Standard Class,11,258.82,0.2,14.28,2277.62,422.23,June,2023,Q2
+ORD-00412,2022-04-02,South,Clothing,Consumer,Standard Class,4,284.82,0.3,34.07,797.5,83.04,April,2022,Q2
+ORD-00413,2023-10-05,West,Sports,Consumer,Standard Class,19,46.01,0.3,37.74,611.93,117.66,October,2023,Q4
+ORD-00414,2022-07-20,East,Food & Beverages,Corporate,Standard Class,8,470.95,0.3,3.05,2637.32,838.61,July,2022,Q3
+ORD-00415,2022-06-09,East,Furniture,Corporate,Standard Class,14,281.93,0.0,14.32,3947.02,464.46,June,2022,Q2
+ORD-00416,2022-12-07,North,Clothing,Consumer,Standard Class,5,252.92,0.0,32.17,1264.6,298.54,December,2022,Q4
+ORD-00417,2022-09-07,East,Clothing,Consumer,Second Class,16,279.5,0.0,31.55,4472.0,750.86,September,2022,Q3
+ORD-00418,2023-02-07,North,Electronics,Consumer,First Class,3,429.34,0.1,38.93,1159.22,298.01,February,2023,Q1
+ORD-00419,2023-04-28,South,Electronics,Consumer,Standard Class,18,445.18,0.1,33.4,7211.92,1441.03,April,2023,Q2
+ORD-00420,2022-05-29,East,Sports,Corporate,Standard Class,18,244.86,0.0,28.17,4407.48,572.26,May,2022,Q2
+ORD-00421,2023-10-14,North,Electronics,Corporate,Standard Class,15,486.63,0.3,22.47,5109.62,1263.81,October,2023,Q4
+ORD-00422,2023-11-30,West,Electronics,Corporate,Standard Class,7,228.05,0.3,10.07,1117.44,119.08,November,2023,Q4
+ORD-00423,2022-04-04,North,Food & Beverages,Consumer,First Class,16,218.25,0.0,43.38,3492.0,1095.21,April,2022,Q2
+ORD-00424,2023-01-23,South,Food & Beverages,Consumer,Standard Class,4,411.14,0.0,5.06,1644.56,378.31,January,2023,Q1
+ORD-00425,2023-08-31,West,Clothing,Consumer,First Class,14,226.9,0.1,43.53,2858.94,317.54,August,2023,Q3
+ORD-00426,2022-05-01,West,Electronics,Home Office,Standard Class,16,192.79,0.0,31.24,3084.64,715.45,May,2022,Q2
+ORD-00427,2023-12-12,East,Clothing,Corporate,Standard Class,14,94.2,0.0,22.73,1318.8,148.58,December,2023,Q4
+ORD-00428,2023-05-24,South,Furniture,Corporate,Standard Class,18,16.16,0.0,7.82,290.88,37.43,May,2023,Q2
+ORD-00429,2022-08-09,East,Clothing,Consumer,Standard Class,19,424.78,0.0,15.73,8070.82,2045.2,August,2022,Q3
+ORD-00430,2023-02-24,East,Electronics,Corporate,Second Class,16,442.04,0.1,35.82,6365.38,432.09,February,2023,Q1
+ORD-00431,2023-04-04,East,Clothing,Consumer,Standard Class,13,94.69,0.3,13.74,861.68,185.26,April,2023,Q2
+ORD-00432,2023-07-06,South,Clothing,Corporate,Standard Class,13,442.09,0.2,47.58,4597.74,417.44,July,2023,Q3
+ORD-00433,2022-02-21,North,Clothing,Home Office,First Class,1,172.18,0.2,9.84,137.74,15.18,February,2022,Q1
+ORD-00434,2022-04-05,North,Clothing,Consumer,Standard Class,18,193.08,0.3,49.75,2432.81,141.35,April,2022,Q2
+ORD-00435,2022-06-23,North,Sports,Consumer,Standard Class,4,186.34,0.0,21.95,745.36,107.21,June,2022,Q2
+ORD-00436,2022-03-17,North,Food & Beverages,Corporate,Same Day,6,12.79,0.1,44.42,69.07,-38.32,March,2022,Q1
+ORD-00437,2022-11-09,South,Clothing,Consumer,Standard Class,5,13.55,0.2,23.81,54.2,-5.35,November,2022,Q4
+ORD-00438,2022-02-04,South,Furniture,Consumer,Same Day,6,478.19,0.0,7.22,2869.14,912.92,February,2022,Q1
+ORD-00439,2023-09-13,North,Clothing,Consumer,Second Class,13,341.24,0.0,48.34,4436.12,478.96,September,2023,Q3
+ORD-00440,2023-09-22,North,Electronics,Consumer,Standard Class,18,97.68,0.1,11.17,1582.42,257.42,September,2023,Q3
+ORD-00441,2022-11-15,West,Clothing,Corporate,Standard Class,8,51.52,0.2,26.63,329.73,63.04,November,2022,Q4
+ORD-00442,2023-12-29,South,Food & Beverages,Home Office,Second Class,4,67.19,0.2,19.3,215.01,28.1,December,2023,Q4
+ORD-00443,2023-08-09,South,Electronics,Corporate,Standard Class,5,180.42,0.0,30.61,902.1,138.52,August,2023,Q3
+ORD-00444,2022-08-29,South,Sports,Consumer,First Class,14,468.01,0.0,42.03,6552.14,1498.05,August,2022,Q3
+ORD-00445,2022-03-01,South,Food & Beverages,Consumer,Second Class,1,383.61,0.3,29.71,268.53,28.26,March,2022,Q1
+ORD-00446,2023-09-13,South,Electronics,Consumer,Second Class,4,59.26,0.0,21.64,237.04,23.48,September,2023,Q3
+ORD-00447,2022-01-06,South,Sports,Corporate,Same Day,2,186.42,0.0,14.74,372.84,4.2,January,2022,Q1
+ORD-00448,2023-12-26,North,Furniture,Corporate,Standard Class,15,221.64,0.4,8.62,1994.76,405.19,December,2023,Q4
+ORD-00449,2022-08-17,East,Clothing,Consumer,Second Class,8,400.31,0.0,37.86,3202.48,535.18,August,2022,Q3
+ORD-00450,2023-03-06,North,Electronics,Corporate,Second Class,5,323.49,0.0,32.11,1617.45,355.41,March,2023,Q1
+ORD-00451,2022-05-29,North,Furniture,Consumer,First Class,10,167.45,0.2,22.36,1339.6,212.89,May,2022,Q2
+ORD-00452,2022-09-19,North,Clothing,Home Office,Standard Class,13,388.05,0.0,7.03,5044.65,414.8,September,2022,Q3
+ORD-00453,2022-02-13,West,Electronics,Corporate,Second Class,3,309.59,0.0,14.92,928.77,207.69,February,2022,Q1
+ORD-00454,2023-08-31,East,Electronics,Home Office,First Class,11,52.61,0.1,37.01,520.84,112.31,August,2023,Q3
+ORD-00455,2022-09-10,North,Sports,Corporate,Standard Class,7,474.45,0.0,41.67,3321.15,1047.02,September,2022,Q3
+ORD-00456,2023-09-01,South,Food & Beverages,Corporate,Standard Class,6,52.26,0.2,16.91,250.85,39.59,September,2023,Q3
+ORD-00457,2022-07-25,North,Clothing,Consumer,Standard Class,3,343.69,0.0,4.09,1031.07,269.64,July,2022,Q3
+ORD-00458,2022-02-05,East,Clothing,Consumer,First Class,9,270.62,0.1,13.34,2192.02,473.39,February,2022,Q1
+ORD-00459,2023-03-03,South,Furniture,Home Office,Standard Class,13,72.61,0.0,42.12,943.93,101.69,March,2023,Q1
+ORD-00460,2023-02-03,North,Sports,Consumer,Standard Class,5,23.69,0.3,7.74,82.92,8.6,February,2023,Q1
+ORD-00461,2023-04-17,East,Clothing,Consumer,Second Class,18,252.26,0.1,31.18,4086.61,1203.46,April,2023,Q2
+ORD-00462,2023-12-30,South,Electronics,Consumer,Standard Class,1,79.87,0.1,29.43,71.88,-13.27,December,2023,Q4
+ORD-00463,2023-03-16,North,Sports,Consumer,Second Class,16,170.53,0.2,15.83,2182.78,476.13,March,2023,Q1
+ORD-00464,2022-10-10,South,Furniture,Consumer,Standard Class,14,256.91,0.2,34.68,2877.39,366.32,October,2022,Q4
+ORD-00465,2023-05-27,East,Electronics,Corporate,First Class,7,384.61,0.1,36.44,2423.04,108.05,May,2023,Q2
+ORD-00466,2022-03-15,West,Electronics,Consumer,Second Class,3,334.32,0.3,7.14,702.07,184.74,March,2022,Q1
+ORD-00467,2022-04-15,West,Clothing,Home Office,First Class,11,214.86,0.1,17.62,2127.11,309.82,April,2022,Q2
+ORD-00468,2022-09-07,North,Clothing,Consumer,First Class,14,469.11,0.1,47.96,5910.79,575.54,September,2022,Q3
+ORD-00469,2023-10-26,South,Food & Beverages,Home Office,Standard Class,15,386.4,0.1,42.62,5216.4,250.44,October,2023,Q4
+ORD-00470,2022-02-25,West,Electronics,Home Office,Standard Class,2,304.62,0.2,43.93,487.39,24.83,February,2022,Q1
+ORD-00471,2023-01-28,South,Electronics,Home Office,Standard Class,15,488.89,0.1,40.38,6600.02,1734.01,January,2023,Q1
+ORD-00472,2023-06-25,South,Furniture,Consumer,Second Class,11,131.69,0.1,22.7,1303.73,256.95,June,2023,Q2
+ORD-00473,2023-07-11,North,Clothing,Home Office,Standard Class,8,360.86,0.1,6.43,2598.19,311.2,July,2023,Q3
+ORD-00474,2022-06-28,East,Electronics,Corporate,Second Class,12,395.56,0.0,31.82,4746.72,803.17,June,2022,Q2
+ORD-00475,2022-07-10,East,Electronics,Corporate,Standard Class,7,423.54,0.0,12.32,2964.78,853.88,July,2022,Q3
+ORD-00476,2023-12-19,South,Electronics,Home Office,Standard Class,7,132.61,0.3,36.44,649.79,135.24,December,2023,Q4
+ORD-00477,2023-04-16,East,Electronics,Corporate,First Class,11,189.23,0.2,4.45,1665.22,348.59,April,2023,Q2
+ORD-00478,2022-12-12,North,Electronics,Consumer,First Class,3,278.86,0.2,21.9,669.26,144.27,December,2022,Q4
+ORD-00479,2022-03-29,West,Food & Beverages,Home Office,Standard Class,17,165.12,0.2,3.5,2245.63,165.98,March,2022,Q1
+ORD-00480,2023-05-26,East,Electronics,Corporate,Standard Class,13,451.29,0.1,39.79,5280.09,324.64,May,2023,Q2
+ORD-00481,2022-04-08,South,Furniture,Consumer,Standard Class,5,75.84,0.1,3.51,341.28,23.62,April,2022,Q2
+ORD-00482,2023-09-28,East,Clothing,Consumer,First Class,5,90.75,0.1,45.67,408.38,93.08,September,2023,Q3
+ORD-00483,2022-06-12,East,Electronics,Home Office,Standard Class,18,61.95,0.2,30.84,892.08,249.98,June,2022,Q2
+ORD-00484,2022-07-29,East,Sports,Consumer,Standard Class,6,476.37,0.0,40.93,2858.22,608.33,July,2022,Q3
+ORD-00485,2023-05-26,South,Food & Beverages,Home Office,First Class,11,15.16,0.0,49.12,166.76,-7.75,May,2023,Q2
+ORD-00486,2023-11-06,West,Furniture,Home Office,Standard Class,10,292.15,0.3,29.03,2045.05,470.64,November,2023,Q4
+ORD-00487,2023-03-08,East,Food & Beverages,Consumer,Standard Class,3,48.41,0.2,47.49,116.18,-13.09,March,2023,Q1
+ORD-00488,2023-09-07,North,Food & Beverages,Home Office,Standard Class,3,479.39,0.1,31.73,1294.35,362.59,September,2023,Q3
+ORD-00489,2023-05-29,South,Sports,Home Office,Standard Class,4,420.62,0.0,27.73,1682.48,175.0,May,2023,Q2
+ORD-00490,2022-07-14,South,Clothing,Consumer,Standard Class,13,310.22,0.0,12.29,4032.86,1335.93,July,2022,Q3
+ORD-00491,2023-09-25,North,Furniture,Consumer,Standard Class,13,359.94,0.0,12.18,4679.22,1060.17,September,2023,Q3
+ORD-00492,2023-01-24,South,Electronics,Home Office,Standard Class,5,308.28,0.1,18.74,1387.26,333.45,January,2023,Q1
+ORD-00493,2022-10-01,East,Clothing,Corporate,Standard Class,18,170.72,0.0,7.76,3072.96,597.24,October,2022,Q4
+ORD-00494,2023-11-15,East,Sports,Corporate,Standard Class,1,101.82,0.0,26.67,101.82,5.08,November,2023,Q4
+ORD-00495,2023-06-08,East,Food & Beverages,Home Office,Second Class,16,323.25,0.2,24.09,4137.6,1169.69,June,2023,Q2
+ORD-00496,2022-08-26,South,Sports,Consumer,Standard Class,11,491.78,0.1,25.84,4868.62,754.33,August,2022,Q3
+ORD-00497,2022-10-07,South,Furniture,Home Office,Standard Class,2,17.4,0.0,12.53,34.8,-7.82,October,2022,Q4
+ORD-00498,2022-06-07,North,Food & Beverages,Home Office,Second Class,9,344.1,0.2,25.39,2477.52,696.09,June,2022,Q2
+ORD-00499,2023-01-07,North,Electronics,Consumer,First Class,2,472.82,0.3,30.8,661.95,24.73,January,2023,Q1
+ORD-00500,2022-07-10,South,Furniture,Home Office,Standard Class,7,220.05,0.0,10.44,1540.35,267.08,July,2022,Q3
+ORD-00501,2023-07-18,North,Furniture,Corporate,Second Class,2,165.29,0.1,33.78,297.52,30.3,July,2023,Q3
+ORD-00502,2022-12-25,West,Clothing,Home Office,Standard Class,14,405.71,0.0,42.44,5679.94,1660.8,December,2022,Q4
+ORD-00503,2022-06-09,East,Clothing,Consumer,First Class,7,81.24,0.4,36.46,341.21,15.45,June,2022,Q2
+ORD-00504,2022-07-22,North,Food & Beverages,Consumer,Standard Class,18,153.32,0.1,35.94,2483.78,258.98,July,2022,Q3
+ORD-00505,2022-10-09,East,Food & Beverages,Corporate,Standard Class,5,23.56,0.1,43.92,106.02,-27.85,October,2022,Q4
+ORD-00506,2022-02-14,South,Clothing,Corporate,Second Class,8,72.1,0.0,49.57,576.8,121.53,February,2022,Q1
+ORD-00507,2022-01-05,South,Furniture,Home Office,Standard Class,11,126.22,0.2,33.95,1110.74,232.38,January,2022,Q1
+ORD-00508,2022-12-29,South,Food & Beverages,Home Office,Second Class,11,209.73,0.1,32.37,2076.33,77.36,December,2022,Q4
+ORD-00509,2023-05-30,East,Electronics,Home Office,Standard Class,5,202.84,0.3,15.42,709.94,169.91,May,2023,Q2
+ORD-00510,2022-05-23,South,Electronics,Home Office,First Class,3,236.35,0.1,44.93,638.14,63.62,May,2022,Q2
+ORD-00511,2023-07-22,South,Electronics,Home Office,Standard Class,3,260.44,0.1,27.71,703.19,44.89,July,2023,Q3
+ORD-00512,2022-07-30,North,Food & Beverages,Consumer,Standard Class,13,48.69,0.2,19.98,506.38,53.59,July,2022,Q3
+ORD-00513,2022-12-13,East,Sports,Consumer,Standard Class,17,409.9,0.0,27.84,6968.3,1090.84,December,2022,Q4
+ORD-00514,2023-10-23,South,Clothing,Home Office,Standard Class,8,425.66,0.2,49.24,2724.22,251.85,October,2023,Q4
+ORD-00515,2022-11-24,West,Clothing,Corporate,Standard Class,1,351.75,0.0,30.64,351.75,27.89,November,2022,Q4
+ORD-00516,2022-11-21,South,Electronics,Consumer,Standard Class,16,111.31,0.1,19.36,1602.86,185.23,November,2022,Q4
+ORD-00517,2022-05-22,North,Clothing,Corporate,Standard Class,11,392.49,0.0,43.97,4317.39,186.61,May,2022,Q2
+ORD-00518,2022-11-13,North,Furniture,Home Office,Second Class,15,201.41,0.1,3.14,2719.04,543.11,November,2022,Q4
+ORD-00519,2023-05-13,South,Furniture,Consumer,Standard Class,2,178.78,0.0,43.03,357.56,-3.37,May,2023,Q2
+ORD-00520,2022-06-15,South,Clothing,Consumer,Standard Class,19,315.56,0.0,36.63,5995.64,658.27,June,2022,Q2
+ORD-00521,2023-11-26,South,Electronics,Consumer,Standard Class,8,269.06,0.0,3.64,2152.48,512.14,November,2023,Q4
+ORD-00522,2022-06-30,North,Electronics,Consumer,Second Class,2,232.85,0.0,31.26,465.7,56.21,June,2022,Q2
+ORD-00523,2023-10-28,East,Sports,Consumer,Standard Class,10,348.12,0.1,7.37,3133.08,492.41,October,2023,Q4
+ORD-00524,2022-07-14,South,Electronics,Consumer,First Class,5,57.74,0.1,39.36,259.83,-19.64,July,2022,Q3
+ORD-00525,2022-11-06,North,Sports,Corporate,Second Class,2,132.96,0.0,12.79,265.92,2.91,November,2022,Q4
+ORD-00526,2022-04-14,West,Sports,Consumer,Standard Class,18,29.76,0.0,15.24,535.68,37.54,April,2022,Q2
+ORD-00527,2022-07-26,East,Electronics,Home Office,Standard Class,13,156.51,0.0,8.87,2034.63,301.18,July,2022,Q3
+ORD-00528,2022-03-25,West,Clothing,Home Office,Second Class,9,82.5,0.0,33.9,742.5,114.88,March,2022,Q1
+ORD-00529,2022-03-27,East,Food & Beverages,Corporate,Same Day,16,329.38,0.2,6.28,4216.06,1086.69,March,2022,Q1
+ORD-00530,2022-01-13,West,Furniture,Consumer,First Class,9,42.24,0.0,43.08,380.16,7.98,January,2022,Q1
+ORD-00531,2022-11-25,West,Furniture,Consumer,Standard Class,9,179.71,0.3,3.38,1132.17,273.21,November,2022,Q4
+ORD-00532,2022-06-15,East,Electronics,Corporate,First Class,10,381.7,0.2,29.84,3053.6,474.74,June,2022,Q2
+ORD-00533,2023-11-09,North,Electronics,Home Office,Second Class,14,104.95,0.2,42.85,1175.44,85.05,November,2023,Q4
+ORD-00534,2023-02-14,North,Electronics,Corporate,Second Class,4,306.7,0.0,44.72,1226.8,328.79,February,2023,Q1
+ORD-00535,2022-08-10,South,Furniture,Corporate,Standard Class,11,135.89,0.0,16.47,1494.79,132.7,August,2022,Q3
+ORD-00536,2023-01-18,West,Clothing,Consumer,Standard Class,17,82.56,0.2,17.6,1122.82,60.04,January,2023,Q1
+ORD-00537,2023-01-29,East,Sports,Consumer,First Class,14,130.67,0.1,43.71,1646.44,358.73,January,2023,Q1
+ORD-00538,2022-05-22,West,Furniture,Home Office,Second Class,11,321.95,0.0,34.1,3541.45,982.11,May,2022,Q2
+ORD-00539,2023-05-23,North,Furniture,Consumer,Second Class,11,366.47,0.0,11.85,4031.17,1077.91,May,2023,Q2
+ORD-00540,2023-06-13,West,Sports,Corporate,Standard Class,13,10.24,0.0,22.32,133.12,11.8,June,2023,Q2
+ORD-00541,2022-11-09,South,Furniture,Consumer,Standard Class,9,215.99,0.1,36.29,1749.52,238.73,November,2022,Q4
+ORD-00542,2022-05-18,West,Electronics,Consumer,Standard Class,16,275.83,0.4,37.63,2647.97,806.64,May,2022,Q2
+ORD-00543,2022-11-06,North,Clothing,Consumer,Standard Class,6,330.58,0.0,18.29,1983.48,469.68,November,2022,Q4
+ORD-00544,2022-03-02,South,Clothing,Home Office,Second Class,19,178.17,0.1,26.25,3046.71,1026.89,March,2022,Q1
+ORD-00545,2023-06-25,North,Electronics,Corporate,First Class,3,428.66,0.2,46.45,1028.78,73.49,June,2023,Q2
+ORD-00546,2022-12-03,North,Sports,Consumer,Standard Class,19,176.54,0.2,19.99,2683.41,272.67,December,2022,Q4
+ORD-00547,2022-07-15,West,Clothing,Corporate,Same Day,4,370.9,0.1,24.33,1335.24,390.49,July,2022,Q3
+ORD-00548,2023-02-09,South,Electronics,Consumer,First Class,14,418.59,0.1,7.52,5274.23,1496.9,February,2023,Q1
+ORD-00549,2022-08-09,East,Clothing,Corporate,First Class,6,254.47,0.4,37.58,916.09,153.12,August,2022,Q3
+ORD-00550,2023-05-14,North,Clothing,Corporate,Standard Class,9,347.32,0.4,14.48,1875.53,358.27,May,2023,Q2
+ORD-00551,2023-05-12,West,Clothing,Consumer,Standard Class,8,183.05,0.0,22.15,1464.4,132.5,May,2023,Q2
+ORD-00552,2022-08-15,East,Clothing,Home Office,Same Day,4,310.28,0.1,13.94,1117.01,214.56,August,2022,Q3
+ORD-00553,2023-06-01,North,Furniture,Consumer,Standard Class,2,455.08,0.0,14.9,910.16,113.13,June,2023,Q2
+ORD-00554,2023-08-19,West,Clothing,Home Office,Standard Class,6,359.17,0.2,43.16,1724.02,160.88,August,2023,Q3
+ORD-00555,2022-04-22,South,Clothing,Home Office,Standard Class,18,374.78,0.0,8.97,6746.04,747.36,April,2022,Q2
+ORD-00556,2022-09-28,North,Clothing,Consumer,Standard Class,16,357.52,0.1,24.28,5148.29,1001.85,September,2022,Q3
+ORD-00557,2023-11-24,West,Furniture,Consumer,Standard Class,6,343.41,0.0,13.14,2060.46,695.47,November,2023,Q4
+ORD-00558,2023-08-08,North,Electronics,Corporate,Standard Class,4,368.33,0.4,41.68,883.99,190.89,August,2023,Q3
+ORD-00559,2023-12-04,East,Food & Beverages,Consumer,Standard Class,13,136.81,0.1,21.6,1600.68,282.3,December,2023,Q4
+ORD-00560,2023-11-30,East,Electronics,Consumer,Second Class,7,343.99,0.2,35.15,1926.34,236.6,November,2023,Q4
+ORD-00561,2022-08-30,East,Clothing,Corporate,Standard Class,7,390.95,0.2,33.37,2189.32,714.75,August,2022,Q3
+ORD-00562,2023-07-28,East,Furniture,Home Office,Standard Class,2,185.86,0.1,34.91,334.55,-3.47,July,2023,Q3
+ORD-00563,2022-08-17,North,Furniture,Home Office,Standard Class,2,306.15,0.1,38.29,551.07,96.1,August,2022,Q3
+ORD-00564,2022-06-19,West,Clothing,Consumer,Second Class,5,282.32,0.0,47.05,1411.6,99.85,June,2022,Q2
+ORD-00565,2023-04-05,South,Electronics,Corporate,Standard Class,17,470.02,0.0,25.71,7990.34,778.37,April,2023,Q2
+ORD-00566,2022-07-04,East,Clothing,Corporate,Standard Class,9,481.44,0.4,34.31,2599.78,465.89,July,2022,Q3
+ORD-00567,2022-11-18,West,Clothing,Consumer,Standard Class,7,19.52,0.0,48.28,136.64,-32.55,November,2022,Q4
+ORD-00568,2023-05-03,South,Electronics,Consumer,Standard Class,7,90.0,0.3,31.57,441.0,48.61,May,2023,Q2
+ORD-00569,2022-04-28,West,Clothing,Home Office,Standard Class,12,95.91,0.3,33.48,805.64,100.48,April,2022,Q2
+ORD-00570,2022-03-31,East,Sports,Corporate,First Class,5,316.05,0.2,30.42,1264.2,37.75,March,2022,Q1
+ORD-00571,2023-04-01,South,Clothing,Consumer,First Class,4,264.01,0.0,34.88,1056.04,123.6,April,2023,Q2
+ORD-00572,2022-06-18,East,Electronics,Consumer,First Class,17,291.79,0.1,43.88,4464.39,682.53,June,2022,Q2
+ORD-00573,2022-03-13,West,Electronics,Home Office,Second Class,17,468.84,0.0,36.04,7970.28,1253.11,March,2022,Q1
+ORD-00574,2023-02-27,East,Furniture,Corporate,First Class,15,151.07,0.2,37.19,1812.84,563.26,February,2023,Q1
+ORD-00575,2022-05-30,North,Food & Beverages,Home Office,First Class,17,382.65,0.0,22.32,6505.05,530.78,May,2022,Q2
+ORD-00576,2023-05-26,North,Electronics,Home Office,Same Day,2,224.65,0.0,3.34,449.3,147.14,May,2023,Q2
+ORD-00577,2022-06-25,North,Food & Beverages,Corporate,Standard Class,11,452.93,0.1,27.66,4484.01,1045.53,June,2022,Q2
+ORD-00578,2022-10-30,South,Furniture,Corporate,Standard Class,12,228.33,0.3,11.15,1917.97,140.42,October,2022,Q4
+ORD-00579,2022-08-20,North,Furniture,Corporate,Standard Class,11,226.51,0.2,10.29,1993.29,646.69,August,2022,Q3
+ORD-00580,2022-09-21,South,Electronics,Home Office,First Class,4,202.13,0.1,31.31,727.67,136.55,September,2022,Q3
+ORD-00581,2022-06-13,East,Clothing,Home Office,Standard Class,9,403.32,0.4,10.11,2177.93,295.48,June,2022,Q2
+ORD-00582,2023-03-10,North,Food & Beverages,Consumer,Second Class,5,234.56,0.3,34.41,820.96,95.43,March,2023,Q1
+ORD-00583,2023-10-24,North,Furniture,Consumer,Standard Class,10,242.57,0.2,21.78,1940.56,347.57,October,2023,Q4
+ORD-00584,2023-08-01,North,Electronics,Consumer,Second Class,8,269.64,0.0,9.05,2157.12,412.07,August,2023,Q3
+ORD-00585,2023-12-15,South,Clothing,Consumer,Standard Class,2,289.48,0.0,9.75,578.96,68.99,December,2023,Q4
+ORD-00586,2023-11-30,West,Sports,Corporate,Standard Class,4,306.97,0.0,42.66,1227.88,262.97,November,2023,Q4
+ORD-00587,2023-09-07,South,Electronics,Consumer,Second Class,16,464.53,0.2,6.84,5945.98,399.5,September,2023,Q3
+ORD-00588,2022-10-19,South,Electronics,Consumer,Standard Class,12,146.15,0.1,32.27,1578.42,363.61,October,2022,Q4
+ORD-00589,2023-09-02,North,Furniture,Home Office,First Class,5,163.03,0.0,41.85,815.15,233.38,September,2023,Q3
+ORD-00590,2022-06-09,East,Clothing,Consumer,First Class,10,332.15,0.1,18.86,2989.35,666.54,June,2022,Q2
+ORD-00591,2022-04-21,North,Food & Beverages,Consumer,First Class,16,78.6,0.1,31.01,1131.84,296.44,April,2022,Q2
+ORD-00592,2022-02-06,North,Electronics,Corporate,Standard Class,10,294.26,0.1,36.12,2648.34,537.35,February,2022,Q1
+ORD-00593,2022-11-28,West,Clothing,Consumer,Standard Class,17,304.86,0.0,24.93,5182.62,770.05,November,2022,Q4
+ORD-00594,2023-12-02,East,Clothing,Corporate,Standard Class,5,73.91,0.3,10.87,258.68,20.03,December,2023,Q4
+ORD-00595,2022-12-02,South,Furniture,Corporate,Standard Class,10,375.04,0.0,12.14,3750.4,734.93,December,2022,Q4
+ORD-00596,2022-11-10,North,Clothing,Corporate,Standard Class,17,319.04,0.1,19.39,4881.31,1096.31,November,2022,Q4
+ORD-00597,2023-07-04,North,Electronics,Consumer,Standard Class,8,385.1,0.2,46.26,2464.64,800.3,July,2023,Q3
+ORD-00598,2023-03-17,East,Furniture,Consumer,Standard Class,6,162.09,0.0,13.94,972.54,239.27,March,2023,Q1
+ORD-00599,2023-12-31,East,Electronics,Corporate,Standard Class,4,339.65,0.3,15.02,951.02,82.17,December,2023,Q4
+ORD-00600,2022-11-03,North,Electronics,Home Office,Same Day,12,140.63,0.2,38.29,1350.05,70.84,November,2022,Q4
+ORD-00601,2023-02-27,South,Clothing,Home Office,Standard Class,2,374.97,0.3,5.51,524.96,141.98,February,2023,Q1
+ORD-00602,2022-08-06,East,Furniture,Corporate,Standard Class,15,497.72,0.1,18.11,6719.22,592.25,August,2022,Q3
+ORD-00603,2022-07-03,East,Clothing,Corporate,Standard Class,19,198.14,0.0,16.36,3764.66,1146.79,July,2022,Q3
+ORD-00604,2022-02-08,West,Electronics,Consumer,Standard Class,8,75.12,0.0,23.08,600.96,44.04,February,2022,Q1
+ORD-00605,2023-03-29,North,Electronics,Consumer,First Class,17,296.89,0.2,46.17,4037.7,1300.91,March,2023,Q1
+ORD-00606,2023-03-12,West,Electronics,Corporate,Second Class,1,481.63,0.0,35.86,481.63,88.89,March,2023,Q1
+ORD-00607,2022-04-22,East,Electronics,Consumer,Standard Class,14,100.71,0.2,49.94,1127.95,246.19,April,2022,Q2
+ORD-00608,2022-01-02,South,Furniture,Corporate,Standard Class,17,131.19,0.0,31.45,2230.23,302.2,January,2022,Q1
+ORD-00609,2022-11-19,North,Sports,Consumer,Standard Class,14,283.22,0.1,19.04,3568.57,213.03,November,2022,Q4
+ORD-00610,2023-02-16,North,Furniture,Corporate,First Class,3,152.21,0.4,27.46,273.98,66.65,February,2023,Q1
+ORD-00611,2022-08-27,North,Clothing,Corporate,Second Class,7,387.77,0.0,5.61,2714.39,753.53,August,2022,Q3
+ORD-00612,2022-03-13,East,Furniture,Home Office,Standard Class,18,296.38,0.0,13.9,5334.84,1330.72,March,2022,Q1
+ORD-00613,2023-08-01,West,Furniture,Corporate,Second Class,1,232.98,0.3,39.1,163.09,10.48,August,2023,Q3
+ORD-00614,2022-06-15,East,Furniture,Consumer,Same Day,18,242.0,0.0,17.01,4356.0,328.58,June,2022,Q2
+ORD-00615,2023-12-01,South,Furniture,Consumer,First Class,4,411.1,0.0,17.81,1644.4,292.97,December,2023,Q4
+ORD-00616,2022-02-15,East,Electronics,Corporate,Standard Class,11,185.73,0.2,18.77,1634.42,337.31,February,2022,Q1
+ORD-00617,2022-09-09,North,Furniture,Consumer,Standard Class,8,121.43,0.2,27.51,777.15,164.82,September,2022,Q3
+ORD-00618,2023-04-17,East,Furniture,Home Office,Standard Class,10,438.86,0.0,11.99,4388.6,800.5,April,2023,Q2
+ORD-00619,2022-01-01,North,Food & Beverages,Home Office,Standard Class,11,304.47,0.0,36.87,3349.17,895.96,January,2022,Q1
+ORD-00620,2022-05-14,East,Electronics,Corporate,Second Class,4,182.98,0.1,3.14,658.73,95.15,May,2022,Q2
+ORD-00621,2023-11-30,West,Electronics,Consumer,First Class,16,364.96,0.1,22.38,5255.42,1298.04,November,2023,Q4
+ORD-00622,2023-04-07,South,Clothing,Corporate,Standard Class,5,467.13,0.1,49.84,2102.08,216.67,April,2023,Q2
+ORD-00623,2022-05-11,North,Sports,Home Office,Standard Class,17,114.05,0.1,18.34,1744.96,396.34,May,2022,Q2
+ORD-00624,2023-05-02,East,Clothing,Consumer,Standard Class,11,311.49,0.1,23.21,3083.75,959.96,May,2023,Q2
+ORD-00625,2023-02-28,East,Electronics,Consumer,Standard Class,12,135.66,0.1,3.15,1465.13,450.26,February,2023,Q1
+ORD-00626,2022-03-01,East,Furniture,Consumer,Second Class,6,434.28,0.0,32.28,2605.68,206.22,March,2022,Q1
+ORD-00627,2022-04-23,North,Food & Beverages,Corporate,Same Day,1,419.94,0.0,11.06,419.94,22.59,April,2022,Q2
+ORD-00628,2022-06-01,South,Clothing,Corporate,Second Class,15,88.08,0.0,24.12,1321.2,406.77,June,2022,Q2
+ORD-00629,2022-07-14,South,Food & Beverages,Consumer,Standard Class,6,483.29,0.0,22.53,2899.74,268.59,July,2022,Q3
+ORD-00630,2023-10-19,East,Sports,Consumer,Second Class,10,241.63,0.0,35.74,2416.3,492.03,October,2023,Q4
+ORD-00631,2022-05-02,South,Clothing,Home Office,Second Class,7,453.47,0.1,34.83,2856.86,837.25,May,2022,Q2
+ORD-00632,2023-07-22,West,Electronics,Consumer,Standard Class,5,73.14,0.0,15.26,365.7,53.16,July,2023,Q3
+ORD-00633,2022-10-26,East,Furniture,Corporate,Standard Class,16,255.35,0.3,5.41,2859.92,696.48,October,2022,Q4
+ORD-00634,2022-03-31,East,Electronics,Corporate,First Class,13,12.28,0.2,17.06,127.71,25.01,March,2022,Q1
+ORD-00635,2023-07-16,East,Electronics,Consumer,Second Class,15,108.41,0.0,4.94,1626.15,546.64,July,2023,Q3
+ORD-00636,2023-03-04,East,Electronics,Corporate,First Class,2,277.48,0.1,21.31,499.46,6.68,March,2023,Q1
+ORD-00637,2023-12-30,South,Food & Beverages,Consumer,Standard Class,13,446.89,0.1,48.37,5228.61,264.53,December,2023,Q4
+ORD-00638,2022-10-17,South,Furniture,Consumer,Standard Class,14,32.34,0.2,13.89,362.21,69.69,October,2022,Q4
+ORD-00639,2023-07-10,South,Clothing,Consumer,Second Class,10,216.57,0.1,31.82,1949.13,469.21,July,2023,Q3
+ORD-00640,2022-07-29,North,Furniture,Home Office,Standard Class,13,128.48,0.4,14.81,1002.14,254.51,July,2022,Q3
+ORD-00641,2023-09-23,West,Clothing,Consumer,Same Day,18,283.04,0.4,40.9,3056.83,804.62,September,2023,Q3
+ORD-00642,2023-12-23,North,Furniture,Consumer,Standard Class,14,480.53,0.1,4.93,6054.68,1093.56,December,2023,Q4
+ORD-00643,2022-10-08,North,Electronics,Corporate,Second Class,4,351.98,0.4,5.66,844.75,247.52,October,2022,Q4
+ORD-00644,2023-08-15,West,Food & Beverages,Consumer,Standard Class,7,75.3,0.1,40.13,474.39,80.31,August,2023,Q3
+ORD-00645,2022-01-11,East,Furniture,Consumer,Standard Class,15,165.98,0.1,14.79,2240.73,343.87,January,2022,Q1
+ORD-00646,2022-01-10,South,Food & Beverages,Consumer,Second Class,9,191.29,0.0,6.07,1721.61,247.46,January,2022,Q1
+ORD-00647,2023-08-23,West,Clothing,Home Office,Second Class,10,368.34,0.0,8.83,3683.4,971.78,August,2023,Q3
+ORD-00648,2022-09-26,East,Clothing,Home Office,Standard Class,13,174.65,0.1,6.7,2043.41,570.49,September,2022,Q3
+ORD-00649,2022-07-06,North,Food & Beverages,Consumer,Standard Class,19,51.34,0.0,26.21,975.46,250.48,July,2022,Q3
+ORD-00650,2022-12-21,North,Food & Beverages,Consumer,Standard Class,1,228.16,0.2,36.49,182.53,-15.48,December,2022,Q4
+ORD-00651,2023-08-29,East,Furniture,Consumer,Standard Class,1,203.11,0.0,11.42,203.11,50.07,August,2023,Q3
+ORD-00652,2023-12-11,North,Clothing,Corporate,Standard Class,11,104.33,0.3,28.84,803.34,217.82,December,2023,Q4
+ORD-00653,2023-06-30,South,Furniture,Home Office,Standard Class,3,153.58,0.1,12.65,414.67,62.87,June,2023,Q2
+ORD-00654,2022-07-24,West,Clothing,Consumer,Standard Class,11,155.17,0.0,8.83,1706.87,545.52,July,2022,Q3
+ORD-00655,2023-07-01,North,Food & Beverages,Corporate,Standard Class,9,15.88,0.1,38.99,128.63,-11.36,July,2023,Q3
+ORD-00656,2023-06-20,East,Sports,Consumer,Standard Class,3,477.46,0.0,32.49,1432.38,101.92,June,2023,Q2
+ORD-00657,2022-04-03,South,Furniture,Consumer,First Class,7,270.81,0.0,16.22,1895.67,509.44,April,2022,Q2
+ORD-00658,2022-06-16,West,Clothing,Consumer,Standard Class,3,444.76,0.0,19.44,1334.28,121.81,June,2022,Q2
+ORD-00659,2022-10-25,North,Electronics,Consumer,Second Class,13,191.0,0.3,18.85,1738.1,364.78,October,2022,Q4
+ORD-00660,2023-07-05,South,Food & Beverages,Home Office,Standard Class,2,242.65,0.1,36.16,436.77,50.78,July,2023,Q3
+ORD-00661,2022-12-15,East,Electronics,Consumer,Standard Class,7,442.08,0.4,25.84,1856.74,167.28,December,2022,Q4
+ORD-00662,2023-09-04,North,Electronics,Corporate,Standard Class,2,174.31,0.0,43.54,348.62,-13.03,September,2023,Q3
+ORD-00663,2023-10-24,North,Food & Beverages,Home Office,Standard Class,16,248.36,0.0,19.45,3973.76,213.39,October,2023,Q4
+ORD-00664,2023-12-31,South,Furniture,Corporate,Second Class,10,494.96,0.2,12.21,3959.68,233.61,December,2023,Q4
+ORD-00665,2023-01-02,East,Furniture,Consumer,Same Day,8,428.29,0.1,15.38,3083.69,400.31,January,2023,Q1
+ORD-00666,2022-03-01,South,Clothing,Home Office,Standard Class,5,481.19,0.2,12.24,1924.76,533.06,March,2022,Q1
+ORD-00667,2022-03-24,East,Clothing,Consumer,Standard Class,1,280.19,0.0,31.02,280.19,27.79,March,2022,Q1
+ORD-00668,2023-09-02,South,Clothing,Consumer,First Class,16,139.25,0.0,4.18,2228.0,261.5,September,2023,Q3
+ORD-00669,2023-01-31,West,Electronics,Consumer,Second Class,3,30.57,0.2,35.39,73.37,-12.96,January,2023,Q1
+ORD-00670,2022-06-05,East,Sports,Consumer,Standard Class,8,269.45,0.1,42.96,1940.04,340.31,June,2022,Q2
+ORD-00671,2023-06-23,South,Furniture,Corporate,Standard Class,11,403.22,0.2,26.8,3548.34,767.61,June,2023,Q2
+ORD-00672,2022-01-12,East,Electronics,Consumer,First Class,8,66.02,0.0,21.83,528.16,98.18,January,2022,Q1
+ORD-00673,2023-12-10,South,Clothing,Corporate,Second Class,11,208.16,0.1,14.4,2060.78,249.92,December,2023,Q4
+ORD-00674,2022-02-04,West,Electronics,Corporate,Standard Class,11,150.85,0.1,46.35,1493.42,169.54,February,2022,Q1
+ORD-00675,2023-02-23,West,Sports,Consumer,Standard Class,7,336.44,0.0,39.49,2355.08,667.26,February,2023,Q1
+ORD-00676,2022-03-03,East,Clothing,Consumer,Same Day,19,84.35,0.3,41.95,1121.85,103.2,March,2022,Q1
+ORD-00677,2023-07-08,West,Furniture,Home Office,Standard Class,4,80.62,0.3,42.91,225.74,23.41,July,2023,Q3
+ORD-00678,2023-04-11,East,Electronics,Consumer,Standard Class,19,120.7,0.0,46.84,2293.3,691.02,April,2023,Q2
+ORD-00679,2023-10-15,East,Clothing,Consumer,Standard Class,15,150.21,0.3,23.85,1577.2,322.17,October,2023,Q4
+ORD-00680,2022-08-15,North,Sports,Home Office,Standard Class,18,403.55,0.0,21.39,7263.9,578.5,August,2022,Q3
+ORD-00681,2022-11-23,North,Electronics,Consumer,First Class,8,41.76,0.2,15.66,267.26,15.58,November,2022,Q4
+ORD-00682,2022-09-02,East,Furniture,Corporate,Standard Class,17,22.26,0.1,46.39,340.58,13.32,September,2022,Q3
+ORD-00683,2023-08-06,North,Furniture,Corporate,Second Class,18,365.46,0.2,12.69,5262.62,1691.19,August,2023,Q3
+ORD-00684,2023-10-26,North,Electronics,Consumer,Standard Class,19,90.14,0.3,15.06,1198.86,388.14,October,2023,Q4
+ORD-00685,2023-03-15,East,Electronics,Corporate,Second Class,17,400.7,0.0,30.15,6811.9,2109.25,March,2023,Q1
+ORD-00686,2023-10-21,South,Food & Beverages,Home Office,Standard Class,15,168.85,0.0,23.01,2532.75,485.84,October,2023,Q4
+ORD-00687,2023-01-27,South,Electronics,Consumer,Standard Class,14,172.21,0.1,40.27,2169.85,431.35,January,2023,Q1
+ORD-00688,2023-04-10,East,Electronics,Consumer,First Class,13,32.41,0.0,19.9,421.33,35.5,April,2023,Q2
+ORD-00689,2023-08-28,North,Clothing,Corporate,Second Class,8,80.23,0.4,9.61,385.1,95.02,August,2023,Q3
+ORD-00690,2023-05-09,South,Electronics,Consumer,Standard Class,7,484.59,0.3,39.08,2374.49,422.58,May,2023,Q2
+ORD-00691,2023-11-23,West,Furniture,Consumer,First Class,14,187.8,0.2,37.88,2103.36,322.36,November,2023,Q4
+ORD-00692,2023-12-12,West,Clothing,Home Office,Second Class,17,65.22,0.4,40.31,665.24,189.77,December,2023,Q4
+ORD-00693,2023-06-28,South,Clothing,Corporate,Standard Class,18,95.49,0.1,3.95,1546.94,498.85,June,2023,Q2
+ORD-00694,2022-09-10,South,Clothing,Home Office,Standard Class,6,238.07,0.1,14.86,1285.58,87.28,September,2022,Q3
+ORD-00695,2022-08-28,North,Clothing,Consumer,Standard Class,15,425.04,0.0,6.74,6375.6,448.98,August,2022,Q3
+ORD-00696,2022-08-05,North,Food & Beverages,Consumer,Standard Class,10,476.31,0.2,13.44,3810.48,721.7,August,2022,Q3
+ORD-00697,2023-07-12,North,Electronics,Consumer,Standard Class,18,95.95,0.0,47.82,1727.1,336.1,July,2023,Q3
+ORD-00698,2022-12-06,North,Furniture,Consumer,Standard Class,13,351.06,0.1,19.51,4107.4,401.14,December,2022,Q4
+ORD-00699,2023-03-16,East,Furniture,Consumer,Standard Class,4,178.15,0.0,22.08,712.6,215.23,March,2023,Q1
+ORD-00700,2023-11-23,South,Electronics,Consumer,Standard Class,18,364.9,0.0,48.63,6568.2,1676.36,November,2023,Q4
+ORD-00701,2022-06-05,West,Electronics,Consumer,Standard Class,16,255.54,0.2,6.43,3270.91,1054.8,June,2022,Q2
+ORD-00702,2022-09-05,North,Food & Beverages,Consumer,Standard Class,11,128.31,0.2,7.96,1129.13,182.52,September,2022,Q3
+ORD-00703,2023-02-21,South,Furniture,Consumer,Standard Class,16,360.49,0.3,43.04,4037.49,206.35,February,2023,Q1
+ORD-00704,2022-02-03,South,Furniture,Consumer,Second Class,4,296.62,0.0,36.98,1186.48,341.15,February,2022,Q1
+ORD-00705,2023-08-31,North,Clothing,Consumer,Standard Class,14,283.88,0.2,31.53,3179.46,321.72,August,2023,Q3
+ORD-00706,2023-10-10,North,Electronics,Consumer,Standard Class,15,284.36,0.0,36.49,4265.4,1293.9,October,2023,Q4
+ORD-00707,2023-04-14,North,Electronics,Consumer,Second Class,17,324.52,0.2,18.84,4413.47,635.78,April,2023,Q2
+ORD-00708,2022-12-14,North,Electronics,Consumer,Standard Class,2,204.04,0.1,22.41,367.27,7.3,December,2022,Q4
+ORD-00709,2023-07-04,North,Food & Beverages,Consumer,Standard Class,5,315.16,0.0,7.62,1575.8,502.85,July,2023,Q3
+ORD-00710,2022-07-24,West,Electronics,Corporate,Same Day,17,136.46,0.0,23.8,2319.82,612.15,July,2022,Q3
+ORD-00711,2023-04-08,North,Electronics,Consumer,Second Class,2,145.54,0.0,26.66,291.08,57.25,April,2023,Q2
+ORD-00712,2023-11-14,South,Clothing,Consumer,Standard Class,16,309.75,0.0,45.15,4956.0,1637.37,November,2023,Q4
+ORD-00713,2022-06-28,West,Electronics,Corporate,Standard Class,7,475.9,0.1,45.07,2998.17,261.34,June,2022,Q2
+ORD-00714,2023-03-29,North,Clothing,Home Office,Standard Class,2,392.06,0.2,38.28,627.3,172.41,March,2023,Q1
+ORD-00715,2023-06-11,South,Electronics,Consumer,Standard Class,2,95.78,0.2,25.4,153.25,25.62,June,2023,Q2
+ORD-00716,2022-07-14,North,Clothing,Consumer,Standard Class,9,432.4,0.2,37.91,3113.28,147.87,July,2022,Q3
+ORD-00717,2022-12-08,East,Clothing,Home Office,Standard Class,3,423.61,0.0,40.16,1270.83,207.4,December,2022,Q4
+ORD-00718,2022-02-19,East,Food & Beverages,Consumer,First Class,16,211.55,0.1,30.39,3046.32,720.89,February,2022,Q1
+ORD-00719,2022-01-14,South,Food & Beverages,Home Office,Same Day,4,206.35,0.1,47.0,742.86,179.75,January,2022,Q1
+ORD-00720,2022-10-02,East,Furniture,Consumer,Second Class,1,238.38,0.0,22.8,238.38,54.34,October,2022,Q4
+ORD-00721,2022-11-15,West,Food & Beverages,Consumer,Standard Class,6,486.17,0.3,13.19,2041.91,151.84,November,2022,Q4
+ORD-00722,2023-08-07,South,Electronics,Consumer,Standard Class,7,230.08,0.2,29.8,1288.45,259.34,August,2023,Q3
+ORD-00723,2022-11-23,East,Food & Beverages,Home Office,Standard Class,15,262.73,0.2,26.73,3152.76,481.2,November,2022,Q4
+ORD-00724,2022-02-21,West,Clothing,Consumer,First Class,17,163.33,0.0,19.28,2776.61,159.08,February,2022,Q1
+ORD-00725,2023-09-04,North,Furniture,Corporate,Standard Class,16,271.13,0.0,17.61,4338.08,815.58,September,2023,Q3
+ORD-00726,2023-01-07,North,Electronics,Consumer,Same Day,5,499.43,0.0,39.57,2497.15,189.47,January,2023,Q1
+ORD-00727,2022-05-16,South,Electronics,Consumer,Same Day,5,212.64,0.0,22.09,1063.2,215.78,May,2022,Q2
+ORD-00728,2022-09-14,West,Food & Beverages,Consumer,Standard Class,1,75.54,0.3,14.38,52.88,2.07,September,2022,Q3
+ORD-00729,2023-03-28,South,Clothing,Home Office,Same Day,13,444.94,0.0,18.52,5784.22,1760.69,March,2023,Q1
+ORD-00730,2023-02-26,North,Clothing,Corporate,Standard Class,12,143.71,0.1,33.51,1552.07,443.41,February,2023,Q1
+ORD-00731,2022-04-28,South,Sports,Consumer,Standard Class,18,470.37,0.0,37.59,8466.66,1727.5,April,2022,Q2
+ORD-00732,2022-07-05,East,Food & Beverages,Consumer,Standard Class,12,450.34,0.0,8.98,5404.08,997.11,July,2022,Q3
+ORD-00733,2022-07-17,South,Clothing,Corporate,Second Class,8,166.72,0.3,3.71,933.63,186.13,July,2022,Q3
+ORD-00734,2023-04-19,East,Clothing,Home Office,Standard Class,14,360.89,0.1,28.43,4547.21,959.13,April,2023,Q2
+ORD-00735,2022-04-04,North,Furniture,Home Office,Standard Class,4,160.16,0.0,35.68,640.64,49.7,April,2022,Q2
+ORD-00736,2023-03-01,North,Clothing,Consumer,Same Day,3,470.31,0.0,3.46,1410.93,133.69,March,2023,Q1
+ORD-00737,2022-06-14,East,Electronics,Consumer,Standard Class,8,379.49,0.0,20.11,3035.92,592.36,June,2022,Q2
+ORD-00738,2023-04-23,North,Food & Beverages,Home Office,Second Class,18,378.33,0.4,6.74,4085.96,1051.69,April,2023,Q2
+ORD-00739,2023-08-12,North,Clothing,Consumer,Standard Class,6,20.16,0.0,4.87,120.96,8.94,August,2023,Q3
+ORD-00740,2022-09-23,East,Clothing,Consumer,First Class,17,317.83,0.2,39.7,4322.49,715.75,September,2022,Q3
+ORD-00741,2023-01-06,East,Clothing,Corporate,Second Class,13,355.14,0.0,10.48,4616.82,1261.52,January,2023,Q1
+ORD-00742,2022-10-18,North,Clothing,Corporate,Standard Class,5,159.86,0.0,4.67,799.3,152.44,October,2022,Q4
+ORD-00743,2023-04-03,South,Food & Beverages,Consumer,Standard Class,6,303.61,0.0,13.61,1821.66,616.52,April,2023,Q2
+ORD-00744,2022-03-27,West,Electronics,Consumer,Standard Class,19,337.73,0.0,7.03,6416.87,1571.27,March,2022,Q1
+ORD-00745,2023-06-18,North,Furniture,Corporate,Standard Class,9,10.85,0.2,24.59,78.12,-1.4,June,2023,Q2
+ORD-00746,2022-03-21,East,Electronics,Consumer,Standard Class,19,463.1,0.0,12.28,8798.9,689.41,March,2022,Q1
+ORD-00747,2023-06-28,North,Electronics,Consumer,Standard Class,2,371.72,0.2,35.55,594.75,97.78,June,2023,Q2
+ORD-00748,2022-08-18,West,Sports,Corporate,Standard Class,14,180.99,0.0,9.02,2533.86,808.51,August,2022,Q3
+ORD-00749,2022-11-21,South,Clothing,Consumer,Standard Class,8,469.63,0.1,29.02,3381.34,815.2,November,2022,Q4
+ORD-00750,2023-04-15,North,Clothing,Home Office,Standard Class,9,234.77,0.2,18.65,1690.34,250.29,April,2023,Q2
+ORD-00751,2023-06-09,South,Clothing,Home Office,Standard Class,8,458.13,0.2,5.15,2932.03,288.79,June,2023,Q2
+ORD-00752,2022-11-17,East,Clothing,Corporate,Second Class,18,222.86,0.0,48.09,4011.48,847.67,November,2022,Q4
+ORD-00753,2022-06-24,East,Furniture,Corporate,Standard Class,7,465.62,0.2,8.0,2607.47,717.04,June,2022,Q2
+ORD-00754,2023-07-19,West,Electronics,Corporate,Standard Class,18,269.62,0.0,47.38,4853.16,630.62,July,2023,Q3
+ORD-00755,2023-07-06,South,Furniture,Corporate,Standard Class,11,48.32,0.1,30.26,478.37,41.94,July,2023,Q3
+ORD-00756,2023-07-06,South,Electronics,Consumer,Second Class,3,143.36,0.0,28.94,430.08,42.46,July,2023,Q3
+ORD-00757,2023-02-04,East,Furniture,Consumer,Second Class,10,205.29,0.2,26.23,1642.32,91.76,February,2023,Q1
+ORD-00758,2023-11-04,East,Clothing,Home Office,Standard Class,6,400.66,0.0,16.9,2403.96,624.75,November,2023,Q4
+ORD-00759,2022-02-15,North,Electronics,Consumer,Standard Class,13,445.61,0.0,23.35,5792.93,1610.16,February,2022,Q1
+ORD-00760,2022-07-25,South,Clothing,Consumer,Second Class,5,131.75,0.3,6.63,461.12,128.57,July,2022,Q3
+ORD-00761,2023-07-27,East,Food & Beverages,Consumer,First Class,8,263.9,0.1,35.79,1900.08,219.3,July,2023,Q3
+ORD-00762,2022-09-09,North,Furniture,Home Office,Standard Class,19,455.2,0.1,8.6,7783.92,2517.03,September,2022,Q3
+ORD-00763,2023-09-06,North,Furniture,Corporate,Standard Class,19,426.27,0.0,26.91,8099.13,1200.72,September,2023,Q3
+ORD-00764,2022-05-08,West,Clothing,Consumer,Standard Class,12,183.26,0.3,23.17,1539.38,206.87,May,2022,Q2
+ORD-00765,2023-03-28,East,Electronics,Consumer,Second Class,12,205.71,0.0,3.03,2468.52,656.82,March,2023,Q1
+ORD-00766,2022-08-15,East,Furniture,Consumer,Standard Class,13,490.82,0.1,49.51,5742.59,488.44,August,2022,Q3
+ORD-00767,2023-02-19,West,Electronics,Corporate,Standard Class,4,54.66,0.0,21.0,218.64,12.64,February,2023,Q1
+ORD-00768,2022-07-24,South,Furniture,Consumer,First Class,14,64.57,0.0,34.61,903.98,200.92,July,2022,Q3
+ORD-00769,2022-03-08,South,Electronics,Consumer,Second Class,17,63.56,0.1,30.65,972.47,194.81,March,2022,Q1
+ORD-00770,2023-09-19,North,Furniture,Home Office,First Class,11,286.81,0.2,3.03,2523.93,606.48,September,2023,Q3
+ORD-00771,2022-07-05,South,Furniture,Corporate,Standard Class,1,61.88,0.1,18.12,55.69,-5.46,July,2022,Q3
+ORD-00772,2022-10-08,North,Electronics,Corporate,Standard Class,13,335.03,0.0,26.46,4355.39,430.63,October,2022,Q4
+ORD-00773,2022-04-29,North,Clothing,Consumer,Second Class,19,132.18,0.0,39.96,2511.42,338.75,April,2022,Q2
+ORD-00774,2023-12-15,South,Electronics,Consumer,Standard Class,13,437.2,0.1,36.78,5115.24,886.34,December,2023,Q4
+ORD-00775,2023-02-19,West,Furniture,Consumer,Second Class,6,312.54,0.0,4.09,1875.24,493.07,February,2023,Q1
+ORD-00776,2023-05-09,East,Furniture,Consumer,Standard Class,1,401.84,0.2,31.32,321.47,25.88,May,2023,Q2
+ORD-00777,2023-12-25,East,Furniture,Corporate,Second Class,18,182.21,0.0,42.88,3279.78,572.71,December,2023,Q4
+ORD-00778,2023-01-10,South,Food & Beverages,Consumer,Standard Class,14,17.38,0.0,8.14,243.32,72.83,January,2023,Q1
+ORD-00779,2022-07-30,South,Food & Beverages,Home Office,Standard Class,10,191.38,0.2,16.63,1531.04,441.02,July,2022,Q3
+ORD-00780,2023-05-12,West,Clothing,Corporate,Standard Class,7,41.51,0.3,45.34,203.4,18.2,May,2023,Q2
+ORD-00781,2023-10-02,South,Clothing,Consumer,Same Day,15,342.52,0.1,15.74,4624.02,883.33,October,2023,Q4
+ORD-00782,2023-08-16,South,Food & Beverages,Consumer,First Class,1,208.33,0.0,20.33,208.33,47.19,August,2023,Q3
+ORD-00783,2022-11-23,East,Electronics,Corporate,Standard Class,15,360.32,0.1,46.79,4864.32,441.69,November,2022,Q4
+ORD-00784,2023-09-24,West,Electronics,Consumer,Standard Class,3,399.8,0.0,11.71,1199.4,51.91,September,2023,Q3
+ORD-00785,2023-03-18,East,Food & Beverages,Consumer,First Class,8,114.76,0.2,37.98,734.46,151.89,March,2023,Q1
+ORD-00786,2023-01-09,East,Clothing,Consumer,First Class,8,412.97,0.0,17.37,3303.76,493.83,January,2023,Q1
+ORD-00787,2023-04-23,West,Food & Beverages,Home Office,Second Class,13,228.62,0.1,22.73,2674.85,493.43,April,2023,Q2
+ORD-00788,2023-12-13,North,Clothing,Consumer,Standard Class,2,169.2,0.0,3.1,338.4,14.83,December,2023,Q4
+ORD-00789,2023-05-05,South,Furniture,Consumer,Standard Class,15,49.13,0.3,29.39,515.86,110.31,May,2023,Q2
+ORD-00790,2023-03-06,East,Food & Beverages,Home Office,Standard Class,11,121.74,0.0,20.31,1339.14,96.62,March,2023,Q1
+ORD-00791,2022-06-11,East,Furniture,Consumer,Standard Class,8,294.39,0.0,46.6,2355.12,174.55,June,2022,Q2
+ORD-00792,2023-08-23,North,Food & Beverages,Home Office,Standard Class,17,39.44,0.2,15.3,536.38,48.93,August,2023,Q3
+ORD-00793,2023-01-20,North,Furniture,Consumer,Standard Class,2,73.35,0.1,9.03,132.03,25.31,January,2023,Q1
+ORD-00794,2023-11-09,South,Electronics,Home Office,First Class,12,264.92,0.3,29.17,2225.33,646.7,November,2023,Q4
+ORD-00795,2023-11-30,West,Furniture,Corporate,Second Class,4,228.35,0.2,11.45,730.72,200.73,November,2023,Q4
+ORD-00796,2022-03-02,West,Furniture,Corporate,Standard Class,2,419.27,0.1,49.85,754.69,208.35,March,2022,Q1
+ORD-00797,2023-07-08,North,Clothing,Corporate,Standard Class,12,405.84,0.1,7.88,4383.07,1130.92,July,2023,Q3
+ORD-00798,2022-05-06,East,Furniture,Corporate,Standard Class,2,217.64,0.2,4.57,348.22,68.68,May,2022,Q2
+ORD-00799,2023-05-02,East,Electronics,Corporate,First Class,7,328.3,0.0,38.91,2298.1,608.99,May,2023,Q2
+ORD-00800,2022-09-21,East,Electronics,Consumer,Standard Class,9,258.13,0.0,26.68,2323.17,723.2,September,2022,Q3
+ORD-00801,2022-04-16,North,Furniture,Corporate,Standard Class,16,219.23,0.0,6.5,3507.68,920.57,April,2022,Q2
+ORD-00802,2023-10-09,East,Food & Beverages,Home Office,Same Day,8,363.16,0.0,4.34,2905.28,948.99,October,2023,Q4
+ORD-00803,2023-09-24,East,Electronics,Consumer,Standard Class,15,227.34,0.2,22.09,2728.08,841.98,September,2023,Q3
+ORD-00804,2022-06-29,East,Electronics,Consumer,First Class,10,463.62,0.1,32.58,4172.58,1279.04,June,2022,Q2
+ORD-00805,2023-05-04,South,Sports,Consumer,Standard Class,4,32.31,0.1,12.57,116.32,9.26,May,2023,Q2
+ORD-00806,2023-04-01,North,Sports,Consumer,First Class,5,299.44,0.4,27.7,898.32,80.55,April,2023,Q2
+ORD-00807,2023-12-08,South,Electronics,Corporate,Standard Class,4,192.28,0.1,3.03,692.21,197.92,December,2023,Q4
+ORD-00808,2022-02-07,South,Clothing,Consumer,Standard Class,11,134.21,0.4,25.05,885.79,38.06,February,2022,Q1
+ORD-00809,2023-03-12,East,Sports,Home Office,Standard Class,14,65.35,0.1,27.98,823.41,109.37,March,2023,Q1
+ORD-00810,2023-05-10,North,Clothing,Home Office,First Class,12,412.81,0.1,23.21,4458.35,1055.48,May,2023,Q2
+ORD-00811,2022-10-09,East,Electronics,Corporate,Second Class,6,14.16,0.1,4.9,76.46,9.53,October,2022,Q4
+ORD-00812,2023-05-15,North,Electronics,Consumer,Standard Class,8,431.64,0.3,32.55,2417.18,552.67,May,2023,Q2
+ORD-00813,2023-10-24,South,Clothing,Consumer,Standard Class,16,238.84,0.2,28.75,3057.15,485.58,October,2023,Q4
+ORD-00814,2023-08-12,West,Furniture,Consumer,Standard Class,2,268.28,0.1,26.09,482.9,127.34,August,2023,Q3
+ORD-00815,2022-02-05,North,Clothing,Consumer,Standard Class,10,421.13,0.2,29.9,3369.04,518.26,February,2022,Q1
+ORD-00816,2022-08-10,West,Electronics,Corporate,Standard Class,14,188.7,0.2,39.64,2113.44,590.56,August,2022,Q3
+ORD-00817,2023-06-12,South,Food & Beverages,Corporate,Standard Class,15,174.5,0.3,27.77,1832.25,397.07,June,2023,Q2
+ORD-00818,2022-10-26,West,Sports,Consumer,Standard Class,16,477.04,0.2,19.23,6106.11,1484.37,October,2022,Q4
+ORD-00819,2022-10-31,North,Sports,Home Office,Second Class,8,487.38,0.0,47.9,3899.04,167.79,October,2022,Q4
+ORD-00820,2023-05-17,West,Electronics,Consumer,Standard Class,7,308.7,0.0,23.63,2160.9,681.35,May,2023,Q2
+ORD-00821,2023-09-22,East,Electronics,Home Office,Standard Class,18,235.15,0.1,3.97,3809.43,1281.38,September,2023,Q3
+ORD-00822,2022-03-20,North,Clothing,Consumer,First Class,15,57.68,0.0,35.51,865.2,176.66,March,2022,Q1
+ORD-00823,2023-08-29,South,Electronics,Home Office,Standard Class,10,255.91,0.0,7.59,2559.1,332.58,August,2023,Q3
+ORD-00824,2022-04-28,North,Sports,Corporate,Standard Class,16,178.41,0.0,21.55,2854.56,599.81,April,2022,Q2
+ORD-00825,2022-10-11,West,Electronics,Home Office,Standard Class,12,333.51,0.1,48.34,3601.91,802.18,October,2022,Q4
+ORD-00826,2022-12-31,West,Food & Beverages,Corporate,Same Day,11,372.61,0.0,5.09,4098.71,721.86,December,2022,Q4
+ORD-00827,2022-05-06,North,Clothing,Consumer,Standard Class,12,205.84,0.0,6.64,2470.08,841.61,May,2022,Q2
+ORD-00828,2023-04-16,West,Food & Beverages,Consumer,Standard Class,8,318.89,0.4,22.04,1530.67,340.78,April,2023,Q2
+ORD-00829,2022-11-06,East,Food & Beverages,Consumer,Standard Class,18,99.48,0.1,29.03,1611.58,111.85,November,2022,Q4
+ORD-00830,2022-10-16,East,Food & Beverages,Consumer,Standard Class,5,235.5,0.0,19.25,1177.5,44.25,October,2022,Q4
+ORD-00831,2023-04-04,North,Sports,Consumer,Second Class,16,426.83,0.1,10.56,6146.35,1653.37,April,2023,Q2
+ORD-00832,2022-07-12,North,Furniture,Consumer,First Class,13,217.55,0.2,26.74,2262.52,238.02,July,2022,Q3
+ORD-00833,2023-11-27,North,Furniture,Corporate,Standard Class,14,287.39,0.0,24.49,4023.46,1370.38,November,2023,Q4
+ORD-00834,2023-06-25,West,Electronics,Home Office,Standard Class,8,278.53,0.4,37.05,1336.94,396.62,June,2023,Q2
+ORD-00835,2023-07-21,South,Clothing,Home Office,Standard Class,2,490.14,0.2,5.24,784.22,85.95,July,2023,Q3
+ORD-00836,2023-04-11,East,Electronics,Home Office,Standard Class,16,196.93,0.3,48.5,2205.62,645.16,April,2023,Q2
+ORD-00837,2022-12-01,East,Clothing,Consumer,Same Day,5,408.43,0.1,34.55,1837.94,264.23,December,2022,Q4
+ORD-00838,2022-08-21,North,Food & Beverages,Consumer,First Class,15,444.57,0.0,3.66,6668.55,1011.2,August,2022,Q3
+ORD-00839,2023-11-20,North,Clothing,Corporate,Standard Class,2,383.01,0.1,11.41,689.42,188.82,November,2023,Q4
+ORD-00840,2022-12-12,South,Furniture,Corporate,Standard Class,7,187.4,0.1,3.21,1180.62,107.85,December,2022,Q4
+ORD-00841,2022-03-15,West,Furniture,Home Office,Second Class,16,464.51,0.2,20.95,5945.73,830.08,March,2022,Q1
+ORD-00842,2022-01-30,South,Furniture,Consumer,Standard Class,7,496.68,0.1,49.46,3129.08,769.93,January,2022,Q1
+ORD-00843,2022-07-06,East,Clothing,Consumer,Standard Class,12,83.38,0.2,6.32,800.45,34.25,July,2022,Q3
+ORD-00844,2022-06-15,North,Furniture,Consumer,First Class,9,192.71,0.1,39.17,1560.95,491.06,June,2022,Q2
+ORD-00845,2022-10-11,North,Clothing,Consumer,Standard Class,12,480.18,0.4,20.99,3457.3,259.26,October,2022,Q4
+ORD-00846,2022-01-27,South,Furniture,Corporate,Standard Class,10,143.29,0.3,47.76,1003.03,67.0,January,2022,Q1
+ORD-00847,2022-05-16,North,Electronics,Consumer,Second Class,8,274.25,0.0,26.0,2194.0,278.44,May,2022,Q2
+ORD-00848,2023-01-11,South,Electronics,Consumer,Standard Class,16,181.49,0.0,34.54,2903.84,848.54,January,2023,Q1
+ORD-00849,2022-10-24,East,Clothing,Corporate,Standard Class,3,183.18,0.1,30.38,494.59,10.08,October,2022,Q4
+ORD-00850,2022-08-05,South,Furniture,Home Office,Standard Class,17,421.14,0.0,16.79,7159.38,797.3,August,2022,Q3
+ORD-00851,2023-09-19,South,Clothing,Consumer,Standard Class,2,47.69,0.0,15.34,95.38,16.92,September,2023,Q3
+ORD-00852,2022-04-05,North,Electronics,Consumer,Standard Class,3,249.61,0.1,9.73,673.95,51.64,April,2022,Q2
+ORD-00853,2022-11-06,South,Furniture,Corporate,First Class,3,244.29,0.2,46.76,586.3,34.97,November,2022,Q4
+ORD-00854,2023-06-03,North,Electronics,Corporate,Standard Class,18,359.2,0.2,28.41,5172.48,1649.35,June,2023,Q2
+ORD-00855,2023-12-18,North,Sports,Home Office,Second Class,3,330.8,0.0,47.08,992.4,295.9,December,2023,Q4
+ORD-00856,2022-04-17,West,Clothing,Consumer,Standard Class,6,307.46,0.3,25.64,1291.33,413.39,April,2022,Q2
+ORD-00857,2023-10-10,West,Food & Beverages,Consumer,Standard Class,6,380.82,0.1,6.7,2056.43,134.88,October,2023,Q4
+ORD-00858,2022-11-18,North,Clothing,Consumer,Standard Class,10,305.57,0.2,17.66,2444.56,312.59,November,2022,Q4
+ORD-00859,2023-04-11,North,Clothing,Consumer,Second Class,12,466.74,0.0,49.18,5600.88,805.06,April,2023,Q2
+ORD-00860,2022-06-30,North,Electronics,Consumer,Second Class,3,243.1,0.0,43.23,729.3,162.0,June,2022,Q2
+ORD-00861,2022-02-21,North,Clothing,Consumer,Standard Class,8,426.14,0.1,25.47,3068.21,329.93,February,2022,Q1
+ORD-00862,2022-03-02,East,Food & Beverages,Home Office,Standard Class,18,202.35,0.1,41.38,3278.07,299.73,March,2022,Q1
+ORD-00863,2023-03-02,South,Electronics,Consumer,Standard Class,9,154.42,0.2,30.5,1111.82,134.16,March,2023,Q1
+ORD-00864,2022-08-05,West,Clothing,Corporate,Standard Class,17,219.45,0.0,37.47,3730.65,1013.03,August,2022,Q3
+ORD-00865,2023-06-11,West,Clothing,Corporate,Standard Class,9,56.75,0.0,28.54,510.75,39.49,June,2023,Q2
+ORD-00866,2022-07-18,West,Electronics,Consumer,Standard Class,17,265.25,0.0,42.55,4509.25,1320.34,July,2022,Q3
+ORD-00867,2022-12-11,East,Electronics,Consumer,Standard Class,5,121.07,0.1,42.62,544.81,77.05,December,2022,Q4
+ORD-00868,2023-12-22,North,Food & Beverages,Consumer,Standard Class,11,368.74,0.0,4.87,4056.14,1241.53,December,2023,Q4
+ORD-00869,2022-01-09,East,Food & Beverages,Home Office,First Class,1,111.85,0.1,47.82,100.66,-37.92,January,2022,Q1
+ORD-00870,2023-07-18,North,Electronics,Home Office,Standard Class,10,292.01,0.1,20.55,2628.09,258.71,July,2023,Q3
+ORD-00871,2023-03-05,South,Furniture,Consumer,Standard Class,9,325.07,0.1,46.16,2633.07,102.47,March,2023,Q1
+ORD-00872,2023-09-20,North,Food & Beverages,Consumer,Second Class,2,271.86,0.3,28.78,380.6,30.39,September,2023,Q3
+ORD-00873,2023-08-17,East,Food & Beverages,Consumer,Standard Class,9,120.91,0.1,24.61,979.37,117.66,August,2023,Q3
+ORD-00874,2022-03-09,East,Electronics,Corporate,Same Day,1,142.03,0.0,44.08,142.03,-14.62,March,2022,Q1
+ORD-00875,2022-04-02,East,Furniture,Home Office,First Class,2,87.26,0.2,29.37,139.62,-4.31,April,2022,Q2
+ORD-00876,2022-05-13,West,Clothing,Home Office,Standard Class,19,198.38,0.2,37.32,3015.38,231.4,May,2022,Q2
+ORD-00877,2023-12-16,East,Electronics,Consumer,Same Day,8,373.13,0.0,20.12,2985.04,227.68,December,2023,Q4
+ORD-00878,2023-12-16,South,Electronics,Corporate,Second Class,11,21.81,0.2,13.09,191.93,8.93,December,2023,Q4
+ORD-00879,2022-05-16,West,Furniture,Consumer,Standard Class,1,427.8,0.0,16.26,427.8,58.92,May,2022,Q2
+ORD-00880,2022-05-01,East,Food & Beverages,Corporate,Standard Class,3,11.56,0.2,43.26,27.74,-34.06,May,2022,Q2
+ORD-00881,2023-11-08,South,Clothing,Corporate,Standard Class,6,313.49,0.1,7.44,1692.85,454.78,November,2023,Q4
+ORD-00882,2023-07-26,North,Sports,Consumer,Second Class,11,111.1,0.0,32.56,1222.1,196.98,July,2023,Q3
+ORD-00883,2023-08-06,South,Clothing,Corporate,Standard Class,7,141.49,0.0,13.01,990.43,329.0,August,2023,Q3
+ORD-00884,2022-01-30,North,Food & Beverages,Consumer,Standard Class,6,429.39,0.0,8.25,2576.34,232.68,January,2022,Q1
+ORD-00885,2022-04-15,North,Clothing,Consumer,Standard Class,12,362.58,0.1,6.14,3915.86,1354.55,April,2022,Q2
+ORD-00886,2022-10-26,East,Electronics,Corporate,Standard Class,19,326.37,0.0,9.89,6201.03,1702.88,October,2022,Q4
+ORD-00887,2022-10-05,South,Sports,Corporate,Standard Class,16,341.12,0.2,10.28,4366.34,506.24,October,2022,Q4
+ORD-00888,2023-03-27,East,Clothing,Corporate,Standard Class,3,227.54,0.2,26.49,546.1,104.4,March,2023,Q1
+ORD-00889,2023-01-04,West,Clothing,Consumer,First Class,13,454.32,0.2,28.15,4724.93,895.36,January,2023,Q1
+ORD-00890,2022-07-06,South,Clothing,Home Office,Standard Class,4,340.21,0.0,45.18,1360.84,52.8,July,2022,Q3
+ORD-00891,2022-05-20,East,Furniture,Consumer,Standard Class,2,213.25,0.2,25.34,341.2,17.36,May,2022,Q2
+ORD-00892,2022-06-05,North,Clothing,Home Office,Standard Class,3,273.33,0.0,36.05,819.99,31.22,June,2022,Q2
+ORD-00893,2023-12-05,North,Electronics,Corporate,Standard Class,6,245.68,0.1,28.83,1326.67,135.77,December,2023,Q4
+ORD-00894,2023-08-15,South,Furniture,Corporate,First Class,8,284.75,0.4,32.13,1366.8,98.88,August,2023,Q3
+ORD-00895,2023-05-23,North,Furniture,Consumer,Standard Class,12,135.85,0.1,32.03,1467.18,418.02,May,2023,Q2
+ORD-00896,2022-07-30,North,Furniture,Consumer,Standard Class,3,283.31,0.1,43.23,764.94,35.13,July,2022,Q3
+ORD-00897,2022-08-16,West,Clothing,Corporate,Standard Class,14,82.31,0.1,46.87,1037.11,280.32,August,2022,Q3
+ORD-00898,2023-01-07,East,Clothing,Consumer,Standard Class,10,160.58,0.0,18.42,1605.8,148.67,January,2023,Q1
+ORD-00899,2023-06-29,South,Furniture,Corporate,First Class,13,465.75,0.0,14.89,6054.75,1086.32,June,2023,Q2
+ORD-00900,2022-03-26,South,Electronics,Corporate,Standard Class,19,462.96,0.1,15.14,7916.62,1583.73,March,2022,Q1
+ORD-00901,2022-05-08,South,Electronics,Consumer,Standard Class,18,295.52,0.0,9.9,5319.36,1378.78,May,2022,Q2
+ORD-00902,2022-03-14,West,Clothing,Corporate,First Class,11,489.3,0.0,24.48,5382.3,614.68,March,2022,Q1
+ORD-00903,2023-06-28,North,Clothing,Consumer,Standard Class,13,115.52,0.4,41.63,901.06,63.52,June,2023,Q2
+ORD-00904,2023-07-07,South,Food & Beverages,Consumer,Standard Class,5,474.45,0.1,49.37,2135.02,422.1,July,2023,Q3
+ORD-00905,2023-03-14,North,Electronics,Consumer,Standard Class,10,358.42,0.3,39.54,2508.94,163.74,March,2023,Q1
+ORD-00906,2022-03-03,East,Clothing,Corporate,First Class,5,172.4,0.1,49.43,775.8,174.72,March,2022,Q1
+ORD-00907,2022-07-09,North,Food & Beverages,Home Office,Standard Class,9,305.65,0.0,35.32,2750.85,261.45,July,2022,Q3
+ORD-00908,2022-03-24,West,Furniture,Consumer,Standard Class,10,311.41,0.1,39.66,2802.69,213.75,March,2022,Q1
+ORD-00909,2023-11-30,North,Sports,Corporate,Standard Class,4,11.85,0.0,37.5,47.4,-30.35,November,2023,Q4
+ORD-00910,2022-03-10,South,Electronics,Corporate,Second Class,19,145.1,0.0,34.7,2756.9,258.25,March,2022,Q1
+ORD-00911,2023-01-10,North,Sports,Corporate,Second Class,15,249.73,0.2,21.13,2996.76,788.02,January,2023,Q1
+ORD-00912,2023-10-13,East,Electronics,Consumer,Standard Class,11,246.72,0.0,29.84,2713.92,896.86,October,2023,Q4
+ORD-00913,2022-09-16,South,Sports,Home Office,Standard Class,2,251.88,0.0,34.96,503.76,102.81,September,2022,Q3
+ORD-00914,2023-07-11,North,Electronics,Consumer,Second Class,15,178.4,0.4,31.77,1605.6,454.17,July,2023,Q3
+ORD-00915,2023-03-12,North,Clothing,Corporate,Standard Class,14,94.99,0.3,42.87,930.9,171.24,March,2023,Q1
+ORD-00916,2023-03-17,North,Food & Beverages,Home Office,Second Class,11,56.92,0.1,36.69,563.51,17.97,March,2023,Q1
+ORD-00917,2023-08-30,East,Furniture,Home Office,Standard Class,4,375.84,0.0,42.0,1503.36,442.76,August,2023,Q3
+ORD-00918,2023-11-06,South,Furniture,Corporate,Second Class,18,170.7,0.2,35.87,2458.08,263.9,November,2023,Q4
+ORD-00919,2022-06-25,East,Food & Beverages,Corporate,Same Day,12,75.54,0.3,31.28,634.54,135.34,June,2022,Q2
+ORD-00920,2022-11-29,West,Furniture,Home Office,Standard Class,7,284.38,0.2,20.36,1592.53,338.37,November,2022,Q4
+ORD-00921,2023-11-26,West,Clothing,Corporate,Standard Class,1,367.4,0.2,9.18,293.92,82.02,November,2023,Q4
+ORD-00922,2023-08-14,North,Furniture,Consumer,Standard Class,17,421.62,0.0,6.95,7167.54,1558.51,August,2023,Q3
+ORD-00923,2022-04-11,East,Electronics,Home Office,Standard Class,3,298.47,0.2,46.09,716.33,101.39,April,2022,Q2
+ORD-00924,2023-12-05,East,Electronics,Consumer,First Class,16,81.34,0.2,8.06,1041.15,306.36,December,2023,Q4
+ORD-00925,2023-01-20,South,Food & Beverages,Consumer,Standard Class,5,287.25,0.0,31.13,1436.25,285.52,January,2023,Q1
+ORD-00926,2023-10-24,East,Electronics,Corporate,First Class,9,447.07,0.0,10.15,4023.63,1171.49,October,2023,Q4
+ORD-00927,2022-12-13,North,Food & Beverages,Corporate,First Class,15,166.18,0.2,22.95,1994.16,510.81,December,2022,Q4
+ORD-00928,2023-12-09,East,Sports,Corporate,Standard Class,19,198.08,0.1,8.03,3387.17,674.07,December,2023,Q4
+ORD-00929,2022-08-09,South,Clothing,Consumer,Standard Class,2,249.47,0.0,15.63,498.94,46.35,August,2022,Q3
+ORD-00930,2023-11-27,West,Clothing,Home Office,First Class,16,369.29,0.2,40.52,4726.91,355.24,November,2023,Q4
+ORD-00931,2023-01-16,South,Sports,Home Office,Standard Class,12,177.11,0.0,38.75,2125.32,533.7,January,2023,Q1
+ORD-00932,2023-09-25,South,Electronics,Corporate,Standard Class,9,251.48,0.0,21.98,2263.32,618.26,September,2023,Q3
+ORD-00933,2023-07-06,West,Clothing,Consumer,First Class,11,296.45,0.0,8.71,3260.95,624.48,July,2023,Q3
+ORD-00934,2022-08-26,West,Electronics,Corporate,Second Class,13,373.32,0.0,26.76,4853.16,1313.88,August,2022,Q3
+ORD-00935,2022-06-15,North,Electronics,Home Office,Second Class,14,222.59,0.4,40.19,1869.76,564.9,June,2022,Q2
+ORD-00936,2022-08-24,South,Sports,Consumer,Same Day,12,446.84,0.3,48.0,3753.46,549.05,August,2022,Q3
+ORD-00937,2022-07-26,South,Food & Beverages,Corporate,Second Class,14,292.68,0.0,13.71,4097.52,313.03,July,2022,Q3
+ORD-00938,2023-04-29,West,Food & Beverages,Corporate,Standard Class,11,457.74,0.0,23.5,5035.14,1024.3,April,2023,Q2
+ORD-00939,2022-12-24,South,Clothing,Consumer,Same Day,4,388.26,0.1,39.84,1397.74,51.55,December,2022,Q4
+ORD-00940,2023-03-14,West,Electronics,Corporate,Standard Class,12,400.42,0.1,24.16,4324.54,239.11,March,2023,Q1
+ORD-00941,2022-08-07,North,Electronics,Consumer,First Class,1,197.15,0.2,39.39,157.72,-7.16,August,2022,Q3
+ORD-00942,2023-07-29,South,Electronics,Corporate,Second Class,10,495.46,0.0,36.0,4954.6,1583.31,July,2023,Q3
+ORD-00943,2022-05-19,East,Clothing,Consumer,Second Class,6,191.82,0.0,25.17,1150.92,344.26,May,2022,Q2
+ORD-00944,2023-07-07,West,Electronics,Consumer,First Class,18,46.91,0.0,30.04,844.38,83.91,July,2023,Q3
+ORD-00945,2023-11-14,North,Clothing,Corporate,Standard Class,10,150.6,0.0,30.65,1506.0,462.04,November,2023,Q4
+ORD-00946,2023-04-08,West,Furniture,Corporate,Second Class,8,300.05,0.4,43.18,1440.24,242.19,April,2023,Q2
+ORD-00947,2022-09-25,North,Electronics,Corporate,Standard Class,7,256.78,0.1,14.67,1617.71,301.31,September,2022,Q3
+ORD-00948,2023-01-15,West,Electronics,Corporate,Standard Class,11,422.69,0.3,26.38,3254.71,531.26,January,2023,Q1
+ORD-00949,2022-11-25,North,Food & Beverages,Consumer,Second Class,15,223.72,0.1,3.12,3020.22,820.59,November,2022,Q4
+ORD-00950,2022-04-06,West,Electronics,Consumer,First Class,9,493.88,0.1,3.36,4000.43,543.82,April,2022,Q2
+ORD-00951,2023-08-23,South,Food & Beverages,Consumer,Standard Class,12,25.89,0.1,15.22,279.61,65.4,August,2023,Q3
+ORD-00952,2022-03-11,North,Furniture,Corporate,Standard Class,12,64.03,0.0,35.73,768.36,87.24,March,2022,Q1
+ORD-00953,2022-07-06,East,Electronics,Corporate,Standard Class,11,43.45,0.1,39.2,430.16,68.39,July,2022,Q3
+ORD-00954,2022-03-06,West,Food & Beverages,Consumer,Standard Class,2,374.31,0.2,44.25,598.9,94.94,March,2022,Q1
+ORD-00955,2022-06-09,North,Sports,Home Office,Standard Class,1,257.96,0.0,34.34,257.96,37.4,June,2022,Q2
+ORD-00956,2023-10-01,East,Clothing,Consumer,Second Class,19,104.83,0.2,12.86,1593.42,447.48,October,2023,Q4
+ORD-00957,2022-11-09,North,Clothing,Corporate,Standard Class,8,149.92,0.4,4.95,719.62,174.96,November,2022,Q4
+ORD-00958,2022-09-09,North,Clothing,Home Office,First Class,14,191.84,0.0,23.89,2685.76,822.81,September,2022,Q3
+ORD-00959,2022-07-16,North,Furniture,Corporate,Second Class,13,369.63,0.3,32.08,3363.63,920.05,July,2022,Q3
+ORD-00960,2023-07-13,South,Electronics,Home Office,Standard Class,7,41.25,0.2,7.12,231.0,48.18,July,2023,Q3
+ORD-00961,2023-01-11,West,Electronics,Corporate,Standard Class,18,486.9,0.0,8.66,8764.2,1807.47,January,2023,Q1
+ORD-00962,2023-08-10,North,Electronics,Consumer,First Class,19,198.65,0.0,6.7,3774.35,835.54,August,2023,Q3
+ORD-00963,2023-09-16,West,Electronics,Corporate,Standard Class,19,270.15,0.2,41.38,4106.28,977.46,September,2023,Q3
+ORD-00964,2023-04-17,South,Electronics,Corporate,First Class,10,395.34,0.4,44.13,2372.04,753.7,April,2023,Q2
+ORD-00965,2023-05-08,North,Electronics,Consumer,Standard Class,4,211.4,0.0,34.25,845.6,71.49,May,2023,Q2
+ORD-00966,2022-02-22,East,Electronics,Corporate,Second Class,1,423.85,0.1,4.25,381.46,42.16,February,2022,Q1
+ORD-00967,2023-02-20,West,Furniture,Consumer,Same Day,17,154.83,0.1,9.19,2368.9,400.97,February,2023,Q1
+ORD-00968,2023-05-22,North,Sports,Home Office,Same Day,13,186.04,0.3,48.5,1692.96,218.51,May,2023,Q2
+ORD-00969,2023-08-30,East,Electronics,Consumer,Second Class,3,336.53,0.0,18.89,1009.59,292.51,August,2023,Q3
+ORD-00970,2022-08-19,South,Furniture,Consumer,Standard Class,11,355.72,0.1,28.7,3521.63,280.79,August,2022,Q3
+ORD-00971,2022-01-28,East,Furniture,Corporate,Second Class,1,298.0,0.0,13.35,298.0,26.71,January,2022,Q1
+ORD-00972,2023-12-30,North,Food & Beverages,Consumer,First Class,2,350.53,0.0,23.41,701.06,83.64,December,2023,Q4
+ORD-00973,2023-12-17,South,Electronics,Consumer,Second Class,5,363.33,0.0,25.18,1816.65,151.51,December,2023,Q4
+ORD-00974,2023-03-14,South,Furniture,Consumer,Standard Class,14,110.79,0.2,22.45,1240.85,302.61,March,2023,Q1
+ORD-00975,2022-02-24,North,Clothing,Consumer,Standard Class,3,267.89,0.0,30.91,803.67,192.41,February,2022,Q1
+ORD-00976,2022-03-14,West,Clothing,Corporate,Standard Class,12,112.86,0.3,21.04,948.02,294.2,March,2022,Q1
+ORD-00977,2023-03-01,North,Food & Beverages,Consumer,First Class,19,404.88,0.1,39.07,6923.45,721.57,March,2023,Q1
+ORD-00978,2022-08-08,South,Food & Beverages,Corporate,Standard Class,12,37.76,0.2,9.9,362.5,14.76,August,2022,Q3
+ORD-00979,2022-04-20,North,Electronics,Consumer,Second Class,10,10.58,0.0,41.22,105.8,-14.95,April,2022,Q2
+ORD-00980,2022-08-04,West,Electronics,Consumer,Standard Class,13,431.37,0.0,19.81,5607.81,753.93,August,2022,Q3
+ORD-00981,2022-09-28,South,Sports,Consumer,Standard Class,18,323.8,0.2,13.96,4662.72,457.57,September,2022,Q3
+ORD-00982,2022-01-14,North,Electronics,Corporate,First Class,11,269.18,0.1,35.61,2664.88,194.26,January,2022,Q1
+ORD-00983,2022-01-08,East,Furniture,Home Office,Second Class,16,137.23,0.0,45.57,2195.68,407.1,January,2022,Q1
+ORD-00984,2023-06-18,North,Furniture,Home Office,Standard Class,4,308.93,0.3,23.96,865.0,131.82,June,2023,Q2
+ORD-00985,2022-12-10,West,Clothing,Corporate,Second Class,3,448.37,0.0,41.02,1345.11,213.04,December,2022,Q4
+ORD-00986,2022-10-12,North,Electronics,Home Office,Second Class,4,407.89,0.0,45.63,1631.56,446.75,October,2022,Q4
+ORD-00987,2022-09-28,East,Clothing,Corporate,Standard Class,2,432.93,0.2,32.34,692.69,97.57,September,2022,Q3
+ORD-00988,2023-04-19,East,Clothing,Consumer,Second Class,13,379.5,0.0,13.23,4933.5,1041.24,April,2023,Q2
+ORD-00989,2022-09-04,East,Electronics,Home Office,First Class,11,466.24,0.0,45.16,5128.64,484.08,September,2022,Q3
+ORD-00990,2022-07-08,South,Clothing,Consumer,Standard Class,6,377.52,0.1,12.87,2038.61,648.71,July,2022,Q3
+ORD-00991,2022-06-16,East,Furniture,Consumer,Standard Class,6,154.39,0.0,47.32,926.34,187.24,June,2022,Q2
+ORD-00992,2023-06-20,North,Electronics,Consumer,Standard Class,7,276.8,0.1,23.76,1743.84,536.48,June,2023,Q2
+ORD-00993,2023-04-05,East,Food & Beverages,Corporate,Standard Class,10,283.45,0.0,12.78,2834.5,877.14,April,2023,Q2
+ORD-00994,2023-04-17,South,Electronics,Consumer,Standard Class,8,305.99,0.3,5.07,1713.54,218.27,April,2023,Q2
+ORD-00995,2023-03-02,North,Furniture,Consumer,Standard Class,9,273.41,0.1,23.11,2214.62,536.04,March,2023,Q1
+ORD-00996,2022-09-01,West,Clothing,Corporate,Same Day,14,203.68,0.1,29.44,2566.37,197.45,September,2022,Q3
+ORD-00997,2023-12-10,East,Electronics,Consumer,Standard Class,14,15.91,0.2,26.12,178.19,-1.45,December,2023,Q4
+ORD-00998,2022-09-26,South,Clothing,Home Office,Standard Class,11,92.09,0.1,45.98,911.69,179.99,September,2022,Q3
+ORD-00999,2022-01-30,North,Food & Beverages,Consumer,Standard Class,17,392.69,0.0,20.49,6675.73,2091.19,January,2022,Q1
+ORD-01000,2022-04-04,East,Clothing,Consumer,Second Class,12,325.49,0.4,5.05,2343.53,330.41,April,2022,Q2
+ORD-01001,2023-06-12,North,Furniture,Consumer,Standard Class,10,343.83,0.2,25.73,2750.64,269.91,June,2023,Q2
+ORD-01002,2023-05-06,West,Electronics,Consumer,Standard Class,19,303.38,0.2,37.5,4611.38,1312.77,May,2023,Q2
+ORD-01003,2022-12-21,North,Furniture,Consumer,Standard Class,15,280.46,0.0,29.11,4206.9,607.66,December,2022,Q4
+ORD-01004,2023-11-24,North,Electronics,Consumer,Second Class,1,270.29,0.2,37.69,216.23,-23.08,November,2023,Q4
+ORD-01005,2023-03-11,East,Furniture,Consumer,Standard Class,3,456.01,0.2,31.92,1094.42,182.21,March,2023,Q1
+ORD-01006,2023-05-15,North,Food & Beverages,Consumer,Same Day,7,264.45,0.0,45.26,1851.15,275.86,May,2023,Q2
+ORD-01007,2022-12-25,East,Sports,Consumer,Standard Class,3,154.5,0.0,22.67,463.5,21.54,December,2022,Q4
+ORD-01008,2022-02-05,East,Clothing,Consumer,Second Class,8,310.83,0.4,16.96,1491.98,420.0,February,2022,Q1
+ORD-01009,2022-03-17,North,Sports,Consumer,Standard Class,18,278.95,0.1,8.1,4518.99,1457.44,March,2022,Q1
+ORD-01010,2023-07-28,South,Electronics,Consumer,First Class,7,41.66,0.2,37.48,233.3,15.37,July,2023,Q3
+ORD-01011,2023-04-20,West,Clothing,Corporate,Second Class,18,373.35,0.0,18.77,6720.3,974.51,April,2023,Q2
+ORD-01012,2022-03-14,North,Furniture,Corporate,Standard Class,2,408.23,0.0,48.28,816.46,161.23,March,2022,Q1
+ORD-01013,2023-11-26,South,Furniture,Consumer,Standard Class,4,469.39,0.2,39.42,1502.05,320.64,November,2023,Q4
+ORD-01014,2022-03-01,West,Clothing,Consumer,Standard Class,6,114.92,0.3,46.56,482.66,18.88,March,2022,Q1
+ORD-01015,2022-06-15,East,Clothing,Corporate,First Class,17,201.72,0.1,20.75,3086.32,569.12,June,2022,Q2
+ORD-01016,2022-03-02,South,Clothing,Corporate,Standard Class,1,461.69,0.1,17.59,415.52,50.13,March,2022,Q1
+ORD-01017,2023-06-17,East,Sports,Consumer,Standard Class,2,157.71,0.0,41.57,315.42,29.2,June,2023,Q2
+ORD-01018,2023-06-02,South,Clothing,Consumer,Same Day,13,219.9,0.3,31.88,2001.09,658.63,June,2023,Q2
+ORD-01019,2023-11-02,West,Clothing,Corporate,First Class,16,12.41,0.1,4.79,178.7,23.07,November,2023,Q4
+ORD-01020,2022-06-01,East,Electronics,Home Office,Standard Class,17,78.83,0.1,37.92,1206.1,84.7,June,2022,Q2
+ORD-01021,2023-02-27,South,Furniture,Home Office,Standard Class,10,268.53,0.1,6.28,2416.77,404.94,February,2023,Q1
+ORD-01022,2023-06-01,North,Sports,Home Office,Standard Class,12,444.04,0.0,41.37,5328.48,892.75,June,2023,Q2
+ORD-01023,2023-12-03,West,Sports,Corporate,Standard Class,8,490.26,0.2,4.94,3137.66,967.02,December,2023,Q4
+ORD-01024,2022-01-05,South,Clothing,Corporate,Standard Class,3,55.97,0.1,44.73,151.12,-27.78,January,2022,Q1
+ORD-01025,2023-06-24,North,Electronics,Corporate,Standard Class,13,348.06,0.1,24.19,4072.3,1022.09,June,2023,Q2
+ORD-01026,2023-10-06,South,Furniture,Corporate,Second Class,19,496.11,0.1,30.84,8483.48,2838.17,October,2023,Q4
+ORD-01027,2022-10-19,East,Furniture,Consumer,Second Class,1,154.93,0.1,25.54,139.44,8.61,October,2022,Q4
+ORD-01028,2023-02-13,South,Furniture,Consumer,Standard Class,7,136.8,0.1,28.51,861.84,156.05,February,2023,Q1
+ORD-01029,2022-02-20,East,Clothing,Consumer,Second Class,2,387.62,0.1,22.58,697.72,204.8,February,2022,Q1
+ORD-01030,2023-02-02,South,Clothing,Consumer,Standard Class,4,323.51,0.2,24.89,1035.23,320.47,February,2023,Q1
+ORD-01031,2022-05-20,North,Food & Beverages,Consumer,Standard Class,1,84.33,0.0,38.65,84.33,-12.12,May,2022,Q2
+ORD-01032,2023-03-04,South,Furniture,Consumer,Standard Class,12,474.06,0.1,13.63,5119.85,864.8,March,2023,Q1
+ORD-01033,2022-02-16,East,Furniture,Corporate,Standard Class,14,367.65,0.1,18.3,4632.39,538.54,February,2022,Q1
+ORD-01034,2023-10-02,East,Furniture,Home Office,Standard Class,13,469.34,0.3,9.99,4270.99,816.59,October,2023,Q4
+ORD-01035,2023-04-12,West,Clothing,Home Office,Standard Class,8,317.02,0.2,37.63,2028.93,381.55,April,2023,Q2
+ORD-01036,2022-03-12,North,Food & Beverages,Corporate,Standard Class,19,496.27,0.0,23.55,9429.13,2709.5,March,2022,Q1
+ORD-01037,2023-05-12,East,Clothing,Home Office,Same Day,5,82.82,0.2,6.08,331.28,24.26,May,2023,Q2
+ORD-01038,2022-11-22,South,Clothing,Consumer,First Class,8,195.06,0.1,27.25,1404.43,205.2,November,2022,Q4
+ORD-01039,2022-12-20,South,Clothing,Corporate,Standard Class,2,50.53,0.0,42.47,101.06,-25.18,December,2022,Q4
+ORD-01040,2022-09-27,North,Furniture,Home Office,Standard Class,3,340.17,0.0,14.04,1020.51,73.53,September,2022,Q3
+ORD-01041,2022-10-03,South,Food & Beverages,Corporate,Second Class,13,197.77,0.2,37.97,2056.81,299.85,October,2022,Q4
+ORD-01042,2022-04-13,South,Food & Beverages,Consumer,Standard Class,15,166.84,0.0,26.6,2502.6,427.39,April,2022,Q2
+ORD-01043,2022-09-30,East,Furniture,Consumer,Second Class,3,166.62,0.2,11.15,399.89,62.76,September,2022,Q3
+ORD-01044,2023-11-07,North,Sports,Consumer,Second Class,19,231.13,0.0,30.88,4391.47,1474.22,November,2023,Q4
+ORD-01045,2023-01-05,South,Clothing,Corporate,Second Class,1,43.43,0.4,34.8,26.06,-27.84,January,2023,Q1
+ORD-01046,2022-11-27,North,Food & Beverages,Corporate,Second Class,7,13.12,0.3,9.39,64.29,-2.97,November,2022,Q4
+ORD-01047,2023-09-04,East,Food & Beverages,Home Office,Standard Class,6,272.55,0.2,32.27,1308.24,118.07,September,2023,Q3
+ORD-01048,2023-02-25,West,Food & Beverages,Corporate,First Class,1,322.38,0.0,34.49,322.38,3.63,February,2023,Q1
+ORD-01049,2022-11-22,South,Food & Beverages,Corporate,First Class,13,68.73,0.0,41.12,893.49,83.26,November,2022,Q4
+ORD-01050,2022-01-06,South,Clothing,Corporate,First Class,5,496.07,0.0,41.61,2480.35,738.36,January,2022,Q1
+ORD-01051,2022-10-11,East,Food & Beverages,Consumer,Second Class,18,359.46,0.1,31.98,5823.25,1734.57,October,2022,Q4
+ORD-01052,2022-12-10,East,Electronics,Consumer,Standard Class,5,320.77,0.3,31.33,1122.7,172.31,December,2022,Q4
+ORD-01053,2023-09-18,North,Clothing,Corporate,First Class,18,111.86,0.1,48.03,1812.13,513.06,September,2023,Q3
+ORD-01054,2022-02-05,South,Electronics,Corporate,Standard Class,1,442.36,0.0,18.18,442.36,71.24,February,2022,Q1
+ORD-01055,2023-04-22,West,Electronics,Home Office,Standard Class,11,266.92,0.2,8.16,2348.9,421.92,April,2023,Q2
+ORD-01056,2023-07-04,North,Clothing,Corporate,Second Class,12,424.29,0.0,9.75,5091.48,1466.94,July,2023,Q3
+ORD-01057,2023-03-07,North,Clothing,Consumer,Standard Class,15,211.95,0.1,28.12,2861.32,570.45,March,2023,Q1
+ORD-01058,2023-03-31,South,Clothing,Consumer,Standard Class,7,192.82,0.0,29.61,1349.74,202.65,March,2023,Q1
+ORD-01059,2022-04-08,South,Electronics,Consumer,Second Class,11,175.98,0.2,49.43,1548.62,91.43,April,2022,Q2
+ORD-01060,2022-11-21,North,Electronics,Consumer,Standard Class,1,144.94,0.0,45.41,144.94,-26.63,November,2022,Q4
+ORD-01061,2023-06-15,South,Furniture,Consumer,Standard Class,6,12.01,0.1,32.23,64.85,-19.7,June,2023,Q2
+ORD-01062,2023-07-10,East,Clothing,Consumer,Second Class,9,484.67,0.0,25.22,4362.03,1248.4,July,2023,Q3
+ORD-01063,2023-09-03,South,Furniture,Corporate,Standard Class,15,103.93,0.2,12.85,1247.16,80.41,September,2023,Q3
+ORD-01064,2022-05-26,East,Sports,Corporate,Standard Class,18,157.13,0.1,16.38,2545.51,706.68,May,2022,Q2
+ORD-01065,2022-11-22,North,Clothing,Home Office,First Class,2,107.73,0.1,15.61,193.91,2.92,November,2022,Q4
+ORD-01066,2023-12-21,North,Electronics,Corporate,Standard Class,2,154.01,0.1,15.58,277.22,41.3,December,2023,Q4
+ORD-01067,2023-02-13,South,Clothing,Consumer,Standard Class,2,83.76,0.1,44.12,150.77,-8.85,February,2023,Q1
+ORD-01068,2023-04-23,East,Sports,Consumer,Standard Class,4,50.31,0.0,34.68,201.24,-11.49,April,2023,Q2
+ORD-01069,2022-04-24,North,Furniture,Consumer,Second Class,15,280.2,0.0,13.36,4203.0,885.37,April,2022,Q2
+ORD-01070,2022-06-12,South,Electronics,Corporate,Standard Class,11,452.81,0.4,30.36,2988.55,539.39,June,2022,Q2
+ORD-01071,2023-09-05,North,Clothing,Home Office,Standard Class,12,285.22,0.0,28.43,3422.64,775.48,September,2023,Q3
+ORD-01072,2023-04-11,East,Food & Beverages,Corporate,Standard Class,6,228.01,0.4,10.19,820.84,176.85,April,2023,Q2
+ORD-01073,2022-04-13,West,Electronics,Home Office,Standard Class,7,326.51,0.4,31.26,1371.34,236.68,April,2022,Q2
+ORD-01074,2022-10-17,North,Food & Beverages,Corporate,First Class,16,489.49,0.0,25.6,7831.84,1315.87,October,2022,Q4
+ORD-01075,2022-10-12,East,Clothing,Consumer,Standard Class,11,210.19,0.0,25.08,2312.09,571.94,October,2022,Q4
+ORD-01076,2022-05-21,West,Clothing,Consumer,Standard Class,4,223.61,0.0,23.94,894.44,267.72,May,2022,Q2
+ORD-01077,2022-09-05,North,Sports,Corporate,Second Class,13,446.26,0.0,22.3,5801.38,1627.48,September,2022,Q3
+ORD-01078,2023-12-31,North,Clothing,Corporate,Standard Class,15,187.89,0.0,33.22,2818.35,121.47,December,2023,Q4
+ORD-01079,2023-12-16,East,Furniture,Consumer,Standard Class,8,23.13,0.0,20.93,185.04,-1.79,December,2023,Q4
+ORD-01080,2023-06-13,East,Electronics,Consumer,Standard Class,11,293.37,0.0,18.55,3227.07,997.62,June,2023,Q2
+ORD-01081,2023-06-30,North,Clothing,Corporate,Second Class,8,216.05,0.3,18.95,1209.88,213.4,June,2023,Q2
+ORD-01082,2023-08-17,East,Furniture,Corporate,Second Class,11,57.57,0.0,7.85,633.27,167.79,August,2023,Q3
+ORD-01083,2023-06-21,West,Clothing,Consumer,First Class,15,287.24,0.1,37.99,3877.74,1183.15,June,2023,Q2
+ORD-01084,2023-01-07,North,Furniture,Consumer,Second Class,9,262.21,0.2,5.96,1887.91,462.65,January,2023,Q1
+ORD-01085,2022-09-14,West,Sports,Consumer,Standard Class,15,301.78,0.0,29.79,4526.7,616.68,September,2022,Q3
+ORD-01086,2023-12-19,West,Clothing,Corporate,Standard Class,15,389.33,0.1,12.22,5255.96,779.29,December,2023,Q4
+ORD-01087,2023-08-09,West,Clothing,Consumer,First Class,11,403.63,0.1,8.08,3995.94,1134.34,August,2023,Q3
+ORD-01088,2022-04-01,West,Food & Beverages,Consumer,First Class,4,492.65,0.1,23.93,1773.54,421.72,April,2022,Q2
+ORD-01089,2023-09-22,West,Furniture,Consumer,Standard Class,11,115.3,0.1,48.82,1141.47,16.52,September,2023,Q3
+ORD-01090,2022-10-31,West,Furniture,Consumer,Standard Class,17,234.89,0.1,16.0,3593.82,563.26,October,2022,Q4
+ORD-01091,2022-11-28,East,Clothing,Consumer,Second Class,5,72.25,0.0,23.53,361.25,64.87,November,2022,Q4
+ORD-01092,2022-03-19,East,Electronics,Consumer,First Class,14,155.73,0.0,46.71,2180.22,161.61,March,2022,Q1
+ORD-01093,2023-03-16,West,Electronics,Consumer,Standard Class,1,352.06,0.3,5.39,246.44,59.78,March,2023,Q1
+ORD-01094,2023-02-22,East,Furniture,Consumer,Standard Class,13,308.08,0.0,31.43,4005.04,730.65,February,2023,Q1
+ORD-01095,2022-07-17,North,Electronics,Consumer,Standard Class,8,286.83,0.0,14.91,2294.64,618.8,July,2022,Q3
+ORD-01096,2023-06-28,East,Electronics,Consumer,Standard Class,7,331.79,0.1,47.25,2090.28,302.49,June,2023,Q2
+ORD-01097,2023-09-20,West,Food & Beverages,Consumer,Same Day,15,28.7,0.0,13.34,430.5,8.29,September,2023,Q3
+ORD-01098,2023-10-11,North,Food & Beverages,Corporate,Standard Class,19,390.34,0.1,29.01,6674.81,2098.0,October,2023,Q4
+ORD-01099,2023-05-31,East,Food & Beverages,Corporate,Standard Class,12,297.08,0.2,22.71,2851.97,484.54,May,2023,Q2
+ORD-01100,2023-06-27,East,Clothing,Corporate,Standard Class,1,141.22,0.0,36.61,141.22,-11.37,June,2023,Q2
+ORD-01101,2022-06-16,South,Electronics,Corporate,Standard Class,7,57.89,0.0,8.06,405.23,15.06,June,2022,Q2
+ORD-01102,2022-07-13,East,Sports,Corporate,First Class,11,163.16,0.0,39.02,1794.76,79.7,July,2022,Q3
+ORD-01103,2023-09-17,North,Clothing,Consumer,Standard Class,16,428.52,0.2,46.17,5485.06,1416.97,September,2023,Q3
+ORD-01104,2023-10-13,North,Furniture,Corporate,Standard Class,2,388.91,0.0,40.61,777.82,123.18,October,2023,Q4
+ORD-01105,2023-01-14,West,Furniture,Home Office,Standard Class,10,373.67,0.1,16.04,3363.03,478.73,January,2023,Q1
+ORD-01106,2023-04-16,West,Clothing,Consumer,Standard Class,2,158.4,0.1,8.02,285.12,27.14,April,2023,Q2
+ORD-01107,2022-10-14,South,Clothing,Consumer,Standard Class,13,196.66,0.2,39.16,2045.26,423.66,October,2022,Q4
+ORD-01108,2023-10-09,East,Clothing,Corporate,Second Class,7,145.88,0.1,40.06,919.04,146.94,October,2023,Q4
+ORD-01109,2022-05-28,North,Clothing,Consumer,Second Class,5,287.98,0.0,17.88,1439.9,375.27,May,2022,Q2
+ORD-01110,2023-06-21,North,Electronics,Home Office,Standard Class,13,478.18,0.3,25.68,4351.44,607.98,June,2023,Q2
+ORD-01111,2022-02-18,North,Clothing,Home Office,Second Class,3,80.28,0.2,34.84,192.67,5.47,February,2022,Q1
+ORD-01112,2022-10-27,West,Clothing,Consumer,Same Day,16,73.42,0.0,38.45,1174.72,343.19,October,2022,Q4
+ORD-01113,2022-09-14,South,Electronics,Corporate,Second Class,1,349.06,0.0,39.14,349.06,67.55,September,2022,Q3
+ORD-01114,2022-04-06,South,Electronics,Consumer,Standard Class,12,386.24,0.2,32.15,3707.9,355.45,April,2022,Q2
+ORD-01115,2023-01-03,South,Clothing,Consumer,Standard Class,3,190.29,0.2,31.15,456.7,28.44,January,2023,Q1
+ORD-01116,2022-03-03,North,Sports,Consumer,First Class,2,90.88,0.1,13.85,163.58,-3.14,March,2022,Q1
+ORD-01117,2022-02-01,West,Clothing,Corporate,Standard Class,17,390.75,0.2,44.49,5314.2,1292.03,February,2022,Q1
+ORD-01118,2022-04-19,West,Furniture,Home Office,Standard Class,2,389.14,0.1,22.02,700.45,136.92,April,2022,Q2
+ORD-01119,2023-08-02,North,Electronics,Consumer,Standard Class,17,129.94,0.1,45.66,1988.08,340.3,August,2023,Q3
+ORD-01120,2022-06-29,North,Electronics,Corporate,Same Day,18,225.99,0.0,31.38,4067.82,434.27,June,2022,Q2
+ORD-01121,2023-09-05,East,Electronics,Consumer,Standard Class,7,194.76,0.0,25.9,1363.32,305.12,September,2023,Q3
+ORD-01122,2023-02-11,West,Electronics,Home Office,Same Day,6,288.19,0.2,16.65,1383.31,164.99,February,2023,Q1
+ORD-01123,2022-03-03,South,Furniture,Home Office,Standard Class,1,11.02,0.0,8.8,11.02,-6.01,March,2022,Q1
+ORD-01124,2023-11-15,North,Clothing,Home Office,Standard Class,4,178.2,0.1,5.02,641.52,94.77,November,2023,Q4
+ORD-01125,2022-09-23,West,Food & Beverages,Home Office,Standard Class,5,23.09,0.0,30.54,115.45,-10.78,September,2022,Q3
+ORD-01126,2023-11-22,East,Clothing,Home Office,Standard Class,11,409.97,0.2,3.44,3607.74,566.87,November,2023,Q4
+ORD-01127,2023-05-19,West,Electronics,Home Office,Standard Class,9,135.1,0.2,47.22,972.72,195.55,May,2023,Q2
+ORD-01128,2022-08-25,West,Clothing,Consumer,Standard Class,3,124.29,0.2,32.27,298.3,9.14,August,2022,Q3
+ORD-01129,2023-05-27,South,Electronics,Home Office,Second Class,9,453.4,0.2,16.5,3264.48,356.08,May,2023,Q2
+ORD-01130,2023-02-27,South,Electronics,Consumer,Second Class,19,449.73,0.2,15.39,6835.9,997.32,February,2023,Q1
+ORD-01131,2023-08-30,North,Clothing,Corporate,Second Class,18,339.77,0.3,26.84,4281.1,962.08,August,2023,Q3
+ORD-01132,2023-11-28,North,Food & Beverages,Consumer,Second Class,3,51.82,0.0,35.71,155.46,-0.71,November,2023,Q4
+ORD-01133,2023-06-19,West,Sports,Home Office,Standard Class,17,199.79,0.0,17.66,3396.43,928.53,June,2023,Q2
+ORD-01134,2023-06-17,South,Furniture,Corporate,Standard Class,12,90.77,0.1,26.94,980.32,69.36,June,2023,Q2
+ORD-01135,2023-09-06,South,Furniture,Corporate,Same Day,17,407.12,0.0,5.15,6921.04,1560.42,September,2023,Q3
+ORD-01136,2023-07-14,South,Clothing,Home Office,Standard Class,7,138.66,0.3,39.51,679.43,98.08,July,2023,Q3
+ORD-01137,2023-05-08,West,Electronics,Consumer,Same Day,14,134.81,0.0,8.02,1887.34,404.99,May,2023,Q2
+ORD-01138,2022-04-08,South,Electronics,Consumer,Second Class,19,306.78,0.1,42.7,5245.94,310.38,April,2022,Q2
+ORD-01139,2022-12-29,East,Clothing,Corporate,Second Class,9,410.35,0.1,15.4,3323.84,389.71,December,2022,Q4
+ORD-01140,2022-01-08,North,Electronics,Consumer,Standard Class,2,311.19,0.0,24.28,622.38,176.75,January,2022,Q1
+ORD-01141,2022-08-02,West,Furniture,Home Office,Standard Class,19,148.68,0.2,13.1,2259.94,382.97,August,2022,Q3
+ORD-01142,2022-10-07,North,Clothing,Consumer,Standard Class,2,312.99,0.0,4.4,625.98,40.0,October,2022,Q4
+ORD-01143,2022-09-10,North,Food & Beverages,Corporate,Second Class,17,139.66,0.4,37.26,1424.53,363.03,September,2022,Q3
+ORD-01144,2023-04-25,East,Electronics,Consumer,Same Day,19,276.11,0.0,36.43,5246.09,498.94,April,2023,Q2
+ORD-01145,2022-12-07,East,Food & Beverages,Corporate,Standard Class,19,258.16,0.0,8.16,4905.04,1694.62,December,2022,Q4
+ORD-01146,2023-03-30,West,Furniture,Consumer,Second Class,10,77.99,0.4,35.88,467.94,119.03,March,2023,Q1
+ORD-01147,2023-08-27,South,Electronics,Consumer,First Class,9,329.45,0.0,36.16,2965.05,283.4,August,2023,Q3
+ORD-01148,2023-01-24,East,Sports,Corporate,Standard Class,1,480.42,0.0,12.09,480.42,140.32,January,2023,Q1
+ORD-01149,2022-02-19,North,Electronics,Corporate,Standard Class,7,460.46,0.0,14.99,3223.22,1060.09,February,2022,Q1
+ORD-01150,2022-07-25,West,Electronics,Consumer,Second Class,8,446.63,0.0,7.83,3573.04,251.96,July,2022,Q3
+ORD-01151,2022-03-26,South,Furniture,Corporate,Standard Class,3,55.35,0.4,21.98,99.63,11.62,March,2022,Q1
+ORD-01152,2023-09-10,East,Electronics,Consumer,Standard Class,14,57.74,0.2,38.22,646.69,94.1,September,2023,Q3
+ORD-01153,2023-09-06,East,Clothing,Corporate,Standard Class,4,223.24,0.1,25.06,803.66,24.31,September,2023,Q3
+ORD-01154,2022-06-26,North,Clothing,Corporate,Standard Class,1,368.03,0.0,24.18,368.03,100.84,June,2022,Q2
+ORD-01155,2023-06-19,North,Clothing,Consumer,Second Class,12,13.38,0.0,33.57,160.56,-14.88,June,2023,Q2
+ORD-01156,2023-10-07,North,Sports,Home Office,Standard Class,19,379.07,0.1,44.26,6482.1,1730.87,October,2023,Q4
+ORD-01157,2022-08-14,North,Electronics,Home Office,Standard Class,19,295.29,0.0,48.25,5610.51,1284.78,August,2022,Q3
+ORD-01158,2023-02-08,East,Furniture,Corporate,Standard Class,7,484.24,0.2,32.43,2711.74,778.93,February,2023,Q1
+ORD-01159,2022-11-19,East,Furniture,Consumer,Standard Class,16,207.89,0.2,6.13,2660.99,375.27,November,2022,Q4
+ORD-01160,2022-01-28,East,Food & Beverages,Home Office,First Class,4,57.69,0.3,8.29,161.53,6.13,January,2022,Q1
+ORD-01161,2023-01-13,East,Electronics,Home Office,Standard Class,4,344.57,0.1,42.87,1240.45,337.13,January,2023,Q1
+ORD-01162,2022-01-21,East,Furniture,Corporate,First Class,15,454.32,0.1,8.7,6133.32,931.7,January,2022,Q1
+ORD-01163,2023-10-18,South,Electronics,Consumer,Standard Class,12,160.36,0.0,47.71,1924.32,69.11,October,2023,Q4
+ORD-01164,2023-04-13,South,Furniture,Consumer,Standard Class,17,421.4,0.0,33.07,7163.8,674.97,April,2023,Q2
+ORD-01165,2023-09-13,East,Clothing,Consumer,Standard Class,9,39.67,0.0,43.53,357.03,27.2,September,2023,Q3
+ORD-01166,2022-04-03,East,Electronics,Corporate,First Class,16,90.75,0.3,48.37,1016.4,88.06,April,2022,Q2
+ORD-01167,2022-09-03,South,Electronics,Consumer,Standard Class,6,70.75,0.1,38.49,382.05,11.07,September,2022,Q3
+ORD-01168,2022-11-02,North,Clothing,Consumer,First Class,14,100.89,0.3,38.18,988.72,111.69,November,2022,Q4
+ORD-01169,2022-07-19,North,Electronics,Consumer,Standard Class,16,265.94,0.4,30.46,2553.02,208.57,July,2022,Q3
+ORD-01170,2022-07-06,East,Electronics,Consumer,Standard Class,18,273.26,0.0,36.5,4918.68,1409.61,July,2022,Q3
+ORD-01171,2022-01-24,North,Clothing,Corporate,Standard Class,10,484.31,0.0,19.22,4843.1,586.42,January,2022,Q1
+ORD-01172,2022-09-05,West,Food & Beverages,Consumer,Standard Class,19,275.62,0.0,35.0,5236.78,400.27,September,2022,Q3
+ORD-01173,2023-07-12,North,Clothing,Consumer,Second Class,3,477.91,0.2,6.92,1146.98,66.51,July,2023,Q3
+ORD-01174,2023-11-11,West,Electronics,Consumer,Second Class,12,355.34,0.0,11.14,4264.08,482.45,November,2023,Q4
+ORD-01175,2023-01-05,North,Food & Beverages,Consumer,Standard Class,6,280.94,0.2,4.47,1348.51,141.01,January,2023,Q1
+ORD-01176,2023-11-17,West,Sports,Consumer,Standard Class,9,235.89,0.2,6.7,1698.41,408.95,November,2023,Q4
+ORD-01177,2023-09-08,East,Food & Beverages,Consumer,Standard Class,10,33.13,0.0,29.71,331.3,22.55,September,2023,Q3
+ORD-01178,2023-09-09,North,Furniture,Corporate,Standard Class,1,235.02,0.1,36.88,211.52,-22.23,September,2023,Q3
+ORD-01179,2023-05-28,West,Electronics,Home Office,Standard Class,19,152.65,0.1,39.42,2610.32,639.88,May,2023,Q2
+ORD-01180,2023-08-23,North,Electronics,Home Office,Standard Class,12,139.02,0.0,3.2,1668.24,502.91,August,2023,Q3
+ORD-01181,2023-07-26,East,Clothing,Consumer,Standard Class,12,97.9,0.1,14.83,1057.32,321.52,July,2023,Q3
+ORD-01182,2023-07-22,North,Electronics,Corporate,Standard Class,19,178.2,0.1,11.48,3047.22,502.73,July,2023,Q3
+ORD-01183,2023-12-07,West,Clothing,Consumer,First Class,18,155.58,0.0,6.47,2800.44,568.08,December,2023,Q4
+ORD-01184,2023-02-05,North,Electronics,Consumer,Standard Class,14,471.58,0.2,18.57,5281.7,367.87,February,2023,Q1
+ORD-01185,2022-09-10,North,Furniture,Home Office,Standard Class,8,93.52,0.1,26.0,673.34,28.35,September,2022,Q3
+ORD-01186,2023-01-29,North,Electronics,Consumer,Standard Class,10,380.11,0.1,29.27,3420.99,176.01,January,2023,Q1
+ORD-01187,2023-10-29,South,Furniture,Consumer,Standard Class,15,477.65,0.1,44.57,6448.28,1965.46,October,2023,Q4
+ORD-01188,2023-04-11,North,Electronics,Consumer,Second Class,7,255.08,0.1,8.66,1607.0,350.06,April,2023,Q2
+ORD-01189,2022-08-12,East,Clothing,Corporate,Standard Class,11,74.36,0.0,31.69,817.96,246.3,August,2022,Q3
+ORD-01190,2022-10-12,West,Furniture,Corporate,Standard Class,10,165.31,0.2,21.16,1322.48,140.03,October,2022,Q4
+ORD-01191,2022-10-22,East,Furniture,Consumer,Standard Class,15,106.13,0.2,28.79,1273.56,236.59,October,2022,Q4
+ORD-01192,2022-10-22,North,Clothing,Corporate,Standard Class,18,223.7,0.1,3.89,3623.94,642.88,October,2022,Q4
+ORD-01193,2023-09-04,East,Food & Beverages,Home Office,Standard Class,5,486.3,0.1,6.0,2188.35,601.75,September,2023,Q3
+ORD-01194,2023-05-14,West,Furniture,Home Office,Standard Class,4,163.26,0.0,25.76,653.04,77.36,May,2023,Q2
+ORD-01195,2023-03-03,South,Clothing,Consumer,Standard Class,19,10.77,0.1,46.45,184.17,17.38,March,2023,Q1
+ORD-01196,2023-09-04,West,Electronics,Corporate,Same Day,14,312.03,0.0,35.08,4368.42,1079.33,September,2023,Q3
+ORD-01197,2023-01-10,North,Furniture,Home Office,Standard Class,11,301.44,0.4,47.77,1989.5,262.96,January,2023,Q1
+ORD-01198,2023-10-12,South,Electronics,Consumer,Standard Class,1,239.67,0.1,48.53,215.7,7.96,October,2023,Q4
+ORD-01199,2022-08-29,North,Food & Beverages,Consumer,Second Class,16,450.45,0.3,18.8,5045.04,639.88,August,2022,Q3
+ORD-01200,2022-10-07,North,Electronics,Consumer,Standard Class,9,353.99,0.2,41.39,2548.73,316.87,October,2022,Q4

@@ -1,0 +1,32 @@
+
+╔══════════════════════════════════════════════════════════╗
+║       RETAIL SALES PERFORMANCE — EXECUTIVE REPORT        ║
+╚══════════════════════════════════════════════════════════╝
+
+DATASET   : 1,200 Orders | 2022–2023 | 5 Categories | 4 Regions
+
+KEY PERFORMANCE INDICATORS
+─────────────────────────────────────────────────────────
+  Total Revenue      : ₹2,671,065.95
+  Total Profit       : ₹  495,442.04
+  Profit Margin      :        18.5%
+  Total Orders       :        1,200
+  Avg Order Value    : ₹    2,225.89
+
+TOP FINDINGS
+─────────────────────────────────────────────────────────
+  1. North is the highest revenue region
+  2. Electronics is the best performing product category
+  3. Food & Beverages has the lowest profit margin — needs review
+  4. Heavy discounts (30%+) reduce avg profit to ₹282
+     vs ₹475 with no discount — a 41% difference
+
+RECOMMENDATIONS
+─────────────────────────────────────────────────────────
+  ✅ Cap discounts at 20% — higher discounts hurt profitability
+  ✅ Invest more in North region — highest revenue potential
+  ✅ Review pricing strategy for Food & Beverages category
+  ✅ Push Corporate segment — second highest revenue, high volume
+  ✅ Q4 is peak season — increase inventory and marketing budget
+
+═══════════════════════════════════════════════════════════
