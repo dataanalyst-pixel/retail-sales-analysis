@@ -126,7 +126,7 @@ python sales_analysis.py
 
 ** Vanitha KP ** | Aspiring Data Analyst | Chennai, Tamil Nadu
 - 📧vanithaperiyasamy13@gmail.com
-- 💼 linkedin.com/in/vanitha-kp
+- 💼 www.linkedin.com/in/vanitha-kp
 - 🐙 [github.com/dataanalyst-pixel](https://github.com/dataanalyst-pixel)
 
 ⭐ **Star this repo if you found it useful!**
